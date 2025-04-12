@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Commander API Extension",
+        "description": "マインクラフト統合版のコマンドを拡張するアドオンを拡張します。",
+        "uuid": "484227b3-bcdc-472e-92e2-fbbd4a09ff11",
+        "version": [2, 0, 0],
+        "min_engine_version": [1, 19, 0]
+    },
+    "metadata": {
+        "authors": ["Nano191225", "Wako119"],
+        "url": "https://github.com/Unknown-Creators-Team/Commander-API-Extension"
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "0af183fd-9773-4a99-973f-bb6bf41c52dc",
+            "version": [1, 0, 0]
+        }
+    ]
+}
