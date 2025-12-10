@@ -300,19 +300,9 @@
                     "value": 4
                 }
             },
-            "capi:health_0.5": {
-                "minecraft:health": {
-                    "max": 0.5
-                }
-            },
             "capi:health_1": {
                 "minecraft:health": {
                     "max": 1
-                }
-            },
-            "capi:health_1.5": {
-                "minecraft:health": {
-                    "max": 1.5
                 }
             },
             "capi:health_2": {
@@ -320,19 +310,9 @@
                     "max": 2
                 }
             },
-            "capi:health_2.5": {
-                "minecraft:health": {
-                    "max": 2.5
-                }
-            },
             "capi:health_3": {
                 "minecraft:health": {
                     "max": 3
-                }
-            },
-            "capi:health_3.5": {
-                "minecraft:health": {
-                    "max": 3.5
                 }
             },
             "capi:health_4": {
@@ -340,19 +320,9 @@
                     "max": 4
                 }
             },
-            "capi:health_4.5": {
-                "minecraft:health": {
-                    "max": 4.5
-                }
-            },
             "capi:health_5": {
                 "minecraft:health": {
                     "max": 5
-                }
-            },
-            "capi:health_5.5": {
-                "minecraft:health": {
-                    "max": 5.5
                 }
             },
             "capi:health_6": {
@@ -360,19 +330,9 @@
                     "max": 6
                 }
             },
-            "capi:health_6.5": {
-                "minecraft:health": {
-                    "max": 6.5
-                }
-            },
             "capi:health_7": {
                 "minecraft:health": {
                     "max": 7
-                }
-            },
-            "capi:health_7.5": {
-                "minecraft:health": {
-                    "max": 7.5
                 }
             },
             "capi:health_8": {
@@ -380,19 +340,9 @@
                     "max": 8
                 }
             },
-            "capi:health_8.5": {
-                "minecraft:health": {
-                    "max": 8.5
-                }
-            },
             "capi:health_9": {
                 "minecraft:health": {
                     "max": 9
-                }
-            },
-            "capi:health_9.5": {
-                "minecraft:health": {
-                    "max": 9.5
                 }
             },
             "capi:health_10": {
@@ -400,19 +350,9 @@
                     "max": 10
                 }
             },
-            "capi:health_10.5": {
-                "minecraft:health": {
-                    "max": 10.5
-                }
-            },
             "capi:health_11": {
                 "minecraft:health": {
                     "max": 11
-                }
-            },
-            "capi:health_11.5": {
-                "minecraft:health": {
-                    "max": 11.5
                 }
             },
             "capi:health_12": {
@@ -420,19 +360,9 @@
                     "max": 12
                 }
             },
-            "capi:health_12.5": {
-                "minecraft:health": {
-                    "max": 12.5
-                }
-            },
             "capi:health_13": {
                 "minecraft:health": {
                     "max": 13
-                }
-            },
-            "capi:health_13.5": {
-                "minecraft:health": {
-                    "max": 13.5
                 }
             },
             "capi:health_14": {
@@ -440,19 +370,9 @@
                     "max": 14
                 }
             },
-            "capi:health_14.5": {
-                "minecraft:health": {
-                    "max": 14.5
-                }
-            },
             "capi:health_15": {
                 "minecraft:health": {
                     "max": 15
-                }
-            },
-            "capi:health_15.5": {
-                "minecraft:health": {
-                    "max": 15.5
                 }
             },
             "capi:health_16": {
@@ -460,19 +380,9 @@
                     "max": 16
                 }
             },
-            "capi:health_16.5": {
-                "minecraft:health": {
-                    "max": 16.5
-                }
-            },
             "capi:health_17": {
                 "minecraft:health": {
                     "max": 17
-                }
-            },
-            "capi:health_17.5": {
-                "minecraft:health": {
-                    "max": 17.5
                 }
             },
             "capi:health_18": {
@@ -480,19 +390,9 @@
                     "max": 18
                 }
             },
-            "capi:health_18.5": {
-                "minecraft:health": {
-                    "max": 18.5
-                }
-            },
             "capi:health_19": {
                 "minecraft:health": {
                     "max": 19
-                }
-            },
-            "capi:health_19.5": {
-                "minecraft:health": {
-                    "max": 19.5
                 }
             },
             "capi:health_20": {
@@ -500,19 +400,9 @@
                     "max": 20
                 }
             },
-            "capi:health_20.5": {
-                "minecraft:health": {
-                    "max": 20.5
-                }
-            },
             "capi:health_21": {
                 "minecraft:health": {
                     "max": 21
-                }
-            },
-            "capi:health_21.5": {
-                "minecraft:health": {
-                    "max": 21.5
                 }
             },
             "capi:health_22": {
@@ -520,19 +410,9 @@
                     "max": 22
                 }
             },
-            "capi:health_22.5": {
-                "minecraft:health": {
-                    "max": 22.5
-                }
-            },
             "capi:health_23": {
                 "minecraft:health": {
                     "max": 23
-                }
-            },
-            "capi:health_23.5": {
-                "minecraft:health": {
-                    "max": 23.5
                 }
             },
             "capi:health_24": {
@@ -540,19 +420,9 @@
                     "max": 24
                 }
             },
-            "capi:health_24.5": {
-                "minecraft:health": {
-                    "max": 24.5
-                }
-            },
             "capi:health_25": {
                 "minecraft:health": {
                     "max": 25
-                }
-            },
-            "capi:health_25.5": {
-                "minecraft:health": {
-                    "max": 25.5
                 }
             },
             "capi:health_26": {
@@ -560,19 +430,9 @@
                     "max": 26
                 }
             },
-            "capi:health_26.5": {
-                "minecraft:health": {
-                    "max": 26.5
-                }
-            },
             "capi:health_27": {
                 "minecraft:health": {
                     "max": 27
-                }
-            },
-            "capi:health_27.5": {
-                "minecraft:health": {
-                    "max": 27.5
                 }
             },
             "capi:health_28": {
@@ -580,19 +440,9 @@
                     "max": 28
                 }
             },
-            "capi:health_28.5": {
-                "minecraft:health": {
-                    "max": 28.5
-                }
-            },
             "capi:health_29": {
                 "minecraft:health": {
                     "max": 29
-                }
-            },
-            "capi:health_29.5": {
-                "minecraft:health": {
-                    "max": 29.5
                 }
             },
             "capi:health_30": {
@@ -600,19 +450,9 @@
                     "max": 30
                 }
             },
-            "capi:health_30.5": {
-                "minecraft:health": {
-                    "max": 30.5
-                }
-            },
             "capi:health_31": {
                 "minecraft:health": {
                     "max": 31
-                }
-            },
-            "capi:health_31.5": {
-                "minecraft:health": {
-                    "max": 31.5
                 }
             },
             "capi:health_32": {
@@ -620,19 +460,9 @@
                     "max": 32
                 }
             },
-            "capi:health_32.5": {
-                "minecraft:health": {
-                    "max": 32.5
-                }
-            },
             "capi:health_33": {
                 "minecraft:health": {
                     "max": 33
-                }
-            },
-            "capi:health_33.5": {
-                "minecraft:health": {
-                    "max": 33.5
                 }
             },
             "capi:health_34": {
@@ -640,19 +470,9 @@
                     "max": 34
                 }
             },
-            "capi:health_34.5": {
-                "minecraft:health": {
-                    "max": 34.5
-                }
-            },
             "capi:health_35": {
                 "minecraft:health": {
                     "max": 35
-                }
-            },
-            "capi:health_35.5": {
-                "minecraft:health": {
-                    "max": 35.5
                 }
             },
             "capi:health_36": {
@@ -660,19 +480,9 @@
                     "max": 36
                 }
             },
-            "capi:health_36.5": {
-                "minecraft:health": {
-                    "max": 36.5
-                }
-            },
             "capi:health_37": {
                 "minecraft:health": {
                     "max": 37
-                }
-            },
-            "capi:health_37.5": {
-                "minecraft:health": {
-                    "max": 37.5
                 }
             },
             "capi:health_38": {
@@ -680,19 +490,9 @@
                     "max": 38
                 }
             },
-            "capi:health_38.5": {
-                "minecraft:health": {
-                    "max": 38.5
-                }
-            },
             "capi:health_39": {
                 "minecraft:health": {
                     "max": 39
-                }
-            },
-            "capi:health_39.5": {
-                "minecraft:health": {
-                    "max": 39.5
                 }
             },
             "capi:health_40": {
@@ -700,19 +500,9 @@
                     "max": 40
                 }
             },
-            "capi:health_40.5": {
-                "minecraft:health": {
-                    "max": 40.5
-                }
-            },
             "capi:health_41": {
                 "minecraft:health": {
                     "max": 41
-                }
-            },
-            "capi:health_41.5": {
-                "minecraft:health": {
-                    "max": 41.5
                 }
             },
             "capi:health_42": {
@@ -720,19 +510,9 @@
                     "max": 42
                 }
             },
-            "capi:health_42.5": {
-                "minecraft:health": {
-                    "max": 42.5
-                }
-            },
             "capi:health_43": {
                 "minecraft:health": {
                     "max": 43
-                }
-            },
-            "capi:health_43.5": {
-                "minecraft:health": {
-                    "max": 43.5
                 }
             },
             "capi:health_44": {
@@ -740,19 +520,9 @@
                     "max": 44
                 }
             },
-            "capi:health_44.5": {
-                "minecraft:health": {
-                    "max": 44.5
-                }
-            },
             "capi:health_45": {
                 "minecraft:health": {
                     "max": 45
-                }
-            },
-            "capi:health_45.5": {
-                "minecraft:health": {
-                    "max": 45.5
                 }
             },
             "capi:health_46": {
@@ -760,19 +530,9 @@
                     "max": 46
                 }
             },
-            "capi:health_46.5": {
-                "minecraft:health": {
-                    "max": 46.5
-                }
-            },
             "capi:health_47": {
                 "minecraft:health": {
                     "max": 47
-                }
-            },
-            "capi:health_47.5": {
-                "minecraft:health": {
-                    "max": 47.5
                 }
             },
             "capi:health_48": {
@@ -780,19 +540,9 @@
                     "max": 48
                 }
             },
-            "capi:health_48.5": {
-                "minecraft:health": {
-                    "max": 48.5
-                }
-            },
             "capi:health_49": {
                 "minecraft:health": {
                     "max": 49
-                }
-            },
-            "capi:health_49.5": {
-                "minecraft:health": {
-                    "max": 49.5
                 }
             },
             "capi:health_50": {
@@ -800,19 +550,9 @@
                     "max": 50
                 }
             },
-            "capi:health_50.5": {
-                "minecraft:health": {
-                    "max": 50.5
-                }
-            },
             "capi:health_51": {
                 "minecraft:health": {
                     "max": 51
-                }
-            },
-            "capi:health_51.5": {
-                "minecraft:health": {
-                    "max": 51.5
                 }
             },
             "capi:health_52": {
@@ -820,19 +560,9 @@
                     "max": 52
                 }
             },
-            "capi:health_52.5": {
-                "minecraft:health": {
-                    "max": 52.5
-                }
-            },
             "capi:health_53": {
                 "minecraft:health": {
                     "max": 53
-                }
-            },
-            "capi:health_53.5": {
-                "minecraft:health": {
-                    "max": 53.5
                 }
             },
             "capi:health_54": {
@@ -840,19 +570,9 @@
                     "max": 54
                 }
             },
-            "capi:health_54.5": {
-                "minecraft:health": {
-                    "max": 54.5
-                }
-            },
             "capi:health_55": {
                 "minecraft:health": {
                     "max": 55
-                }
-            },
-            "capi:health_55.5": {
-                "minecraft:health": {
-                    "max": 55.5
                 }
             },
             "capi:health_56": {
@@ -860,19 +580,9 @@
                     "max": 56
                 }
             },
-            "capi:health_56.5": {
-                "minecraft:health": {
-                    "max": 56.5
-                }
-            },
             "capi:health_57": {
                 "minecraft:health": {
                     "max": 57
-                }
-            },
-            "capi:health_57.5": {
-                "minecraft:health": {
-                    "max": 57.5
                 }
             },
             "capi:health_58": {
@@ -880,19 +590,9 @@
                     "max": 58
                 }
             },
-            "capi:health_58.5": {
-                "minecraft:health": {
-                    "max": 58.5
-                }
-            },
             "capi:health_59": {
                 "minecraft:health": {
                     "max": 59
-                }
-            },
-            "capi:health_59.5": {
-                "minecraft:health": {
-                    "max": 59.5
                 }
             },
             "capi:health_60": {
@@ -900,19 +600,9 @@
                     "max": 60
                 }
             },
-            "capi:health_60.5": {
-                "minecraft:health": {
-                    "max": 60.5
-                }
-            },
             "capi:health_61": {
                 "minecraft:health": {
                     "max": 61
-                }
-            },
-            "capi:health_61.5": {
-                "minecraft:health": {
-                    "max": 61.5
                 }
             },
             "capi:health_62": {
@@ -920,19 +610,9 @@
                     "max": 62
                 }
             },
-            "capi:health_62.5": {
-                "minecraft:health": {
-                    "max": 62.5
-                }
-            },
             "capi:health_63": {
                 "minecraft:health": {
                     "max": 63
-                }
-            },
-            "capi:health_63.5": {
-                "minecraft:health": {
-                    "max": 63.5
                 }
             },
             "capi:health_64": {
@@ -940,19 +620,9 @@
                     "max": 64
                 }
             },
-            "capi:health_64.5": {
-                "minecraft:health": {
-                    "max": 64.5
-                }
-            },
             "capi:health_65": {
                 "minecraft:health": {
                     "max": 65
-                }
-            },
-            "capi:health_65.5": {
-                "minecraft:health": {
-                    "max": 65.5
                 }
             },
             "capi:health_66": {
@@ -960,19 +630,9 @@
                     "max": 66
                 }
             },
-            "capi:health_66.5": {
-                "minecraft:health": {
-                    "max": 66.5
-                }
-            },
             "capi:health_67": {
                 "minecraft:health": {
                     "max": 67
-                }
-            },
-            "capi:health_67.5": {
-                "minecraft:health": {
-                    "max": 67.5
                 }
             },
             "capi:health_68": {
@@ -980,19 +640,9 @@
                     "max": 68
                 }
             },
-            "capi:health_68.5": {
-                "minecraft:health": {
-                    "max": 68.5
-                }
-            },
             "capi:health_69": {
                 "minecraft:health": {
                     "max": 69
-                }
-            },
-            "capi:health_69.5": {
-                "minecraft:health": {
-                    "max": 69.5
                 }
             },
             "capi:health_70": {
@@ -1000,19 +650,9 @@
                     "max": 70
                 }
             },
-            "capi:health_70.5": {
-                "minecraft:health": {
-                    "max": 70.5
-                }
-            },
             "capi:health_71": {
                 "minecraft:health": {
                     "max": 71
-                }
-            },
-            "capi:health_71.5": {
-                "minecraft:health": {
-                    "max": 71.5
                 }
             },
             "capi:health_72": {
@@ -1020,19 +660,9 @@
                     "max": 72
                 }
             },
-            "capi:health_72.5": {
-                "minecraft:health": {
-                    "max": 72.5
-                }
-            },
             "capi:health_73": {
                 "minecraft:health": {
                     "max": 73
-                }
-            },
-            "capi:health_73.5": {
-                "minecraft:health": {
-                    "max": 73.5
                 }
             },
             "capi:health_74": {
@@ -1040,19 +670,9 @@
                     "max": 74
                 }
             },
-            "capi:health_74.5": {
-                "minecraft:health": {
-                    "max": 74.5
-                }
-            },
             "capi:health_75": {
                 "minecraft:health": {
                     "max": 75
-                }
-            },
-            "capi:health_75.5": {
-                "minecraft:health": {
-                    "max": 75.5
                 }
             },
             "capi:health_76": {
@@ -1060,19 +680,9 @@
                     "max": 76
                 }
             },
-            "capi:health_76.5": {
-                "minecraft:health": {
-                    "max": 76.5
-                }
-            },
             "capi:health_77": {
                 "minecraft:health": {
                     "max": 77
-                }
-            },
-            "capi:health_77.5": {
-                "minecraft:health": {
-                    "max": 77.5
                 }
             },
             "capi:health_78": {
@@ -1080,19 +690,9 @@
                     "max": 78
                 }
             },
-            "capi:health_78.5": {
-                "minecraft:health": {
-                    "max": 78.5
-                }
-            },
             "capi:health_79": {
                 "minecraft:health": {
                     "max": 79
-                }
-            },
-            "capi:health_79.5": {
-                "minecraft:health": {
-                    "max": 79.5
                 }
             },
             "capi:health_80": {
@@ -1100,19 +700,9 @@
                     "max": 80
                 }
             },
-            "capi:health_80.5": {
-                "minecraft:health": {
-                    "max": 80.5
-                }
-            },
             "capi:health_81": {
                 "minecraft:health": {
                     "max": 81
-                }
-            },
-            "capi:health_81.5": {
-                "minecraft:health": {
-                    "max": 81.5
                 }
             },
             "capi:health_82": {
@@ -1120,19 +710,9 @@
                     "max": 82
                 }
             },
-            "capi:health_82.5": {
-                "minecraft:health": {
-                    "max": 82.5
-                }
-            },
             "capi:health_83": {
                 "minecraft:health": {
                     "max": 83
-                }
-            },
-            "capi:health_83.5": {
-                "minecraft:health": {
-                    "max": 83.5
                 }
             },
             "capi:health_84": {
@@ -1140,19 +720,9 @@
                     "max": 84
                 }
             },
-            "capi:health_84.5": {
-                "minecraft:health": {
-                    "max": 84.5
-                }
-            },
             "capi:health_85": {
                 "minecraft:health": {
                     "max": 85
-                }
-            },
-            "capi:health_85.5": {
-                "minecraft:health": {
-                    "max": 85.5
                 }
             },
             "capi:health_86": {
@@ -1160,19 +730,9 @@
                     "max": 86
                 }
             },
-            "capi:health_86.5": {
-                "minecraft:health": {
-                    "max": 86.5
-                }
-            },
             "capi:health_87": {
                 "minecraft:health": {
                     "max": 87
-                }
-            },
-            "capi:health_87.5": {
-                "minecraft:health": {
-                    "max": 87.5
                 }
             },
             "capi:health_88": {
@@ -1180,19 +740,9 @@
                     "max": 88
                 }
             },
-            "capi:health_88.5": {
-                "minecraft:health": {
-                    "max": 88.5
-                }
-            },
             "capi:health_89": {
                 "minecraft:health": {
                     "max": 89
-                }
-            },
-            "capi:health_89.5": {
-                "minecraft:health": {
-                    "max": 89.5
                 }
             },
             "capi:health_90": {
@@ -1200,19 +750,9 @@
                     "max": 90
                 }
             },
-            "capi:health_90.5": {
-                "minecraft:health": {
-                    "max": 90.5
-                }
-            },
             "capi:health_91": {
                 "minecraft:health": {
                     "max": 91
-                }
-            },
-            "capi:health_91.5": {
-                "minecraft:health": {
-                    "max": 91.5
                 }
             },
             "capi:health_92": {
@@ -1220,19 +760,9 @@
                     "max": 92
                 }
             },
-            "capi:health_92.5": {
-                "minecraft:health": {
-                    "max": 92.5
-                }
-            },
             "capi:health_93": {
                 "minecraft:health": {
                     "max": 93
-                }
-            },
-            "capi:health_93.5": {
-                "minecraft:health": {
-                    "max": 93.5
                 }
             },
             "capi:health_94": {
@@ -1240,19 +770,9 @@
                     "max": 94
                 }
             },
-            "capi:health_94.5": {
-                "minecraft:health": {
-                    "max": 94.5
-                }
-            },
             "capi:health_95": {
                 "minecraft:health": {
                     "max": 95
-                }
-            },
-            "capi:health_95.5": {
-                "minecraft:health": {
-                    "max": 95.5
                 }
             },
             "capi:health_96": {
@@ -1260,19 +780,9 @@
                     "max": 96
                 }
             },
-            "capi:health_96.5": {
-                "minecraft:health": {
-                    "max": 96.5
-                }
-            },
             "capi:health_97": {
                 "minecraft:health": {
                     "max": 97
-                }
-            },
-            "capi:health_97.5": {
-                "minecraft:health": {
-                    "max": 97.5
                 }
             },
             "capi:health_98": {
@@ -1280,19 +790,9 @@
                     "max": 98
                 }
             },
-            "capi:health_98.5": {
-                "minecraft:health": {
-                    "max": 98.5
-                }
-            },
             "capi:health_99": {
                 "minecraft:health": {
                     "max": 99
-                }
-            },
-            "capi:health_99.5": {
-                "minecraft:health": {
-                    "max": 99.5
                 }
             },
             "capi:health_100": {
@@ -1300,19 +800,9 @@
                     "max": 100
                 }
             },
-            "capi:health_100.5": {
-                "minecraft:health": {
-                    "max": 100.5
-                }
-            },
             "capi:health_101": {
                 "minecraft:health": {
                     "max": 101
-                }
-            },
-            "capi:health_101.5": {
-                "minecraft:health": {
-                    "max": 101.5
                 }
             },
             "capi:health_102": {
@@ -1320,19 +810,9 @@
                     "max": 102
                 }
             },
-            "capi:health_102.5": {
-                "minecraft:health": {
-                    "max": 102.5
-                }
-            },
             "capi:health_103": {
                 "minecraft:health": {
                     "max": 103
-                }
-            },
-            "capi:health_103.5": {
-                "minecraft:health": {
-                    "max": 103.5
                 }
             },
             "capi:health_104": {
@@ -1340,19 +820,9 @@
                     "max": 104
                 }
             },
-            "capi:health_104.5": {
-                "minecraft:health": {
-                    "max": 104.5
-                }
-            },
             "capi:health_105": {
                 "minecraft:health": {
                     "max": 105
-                }
-            },
-            "capi:health_105.5": {
-                "minecraft:health": {
-                    "max": 105.5
                 }
             },
             "capi:health_106": {
@@ -1360,19 +830,9 @@
                     "max": 106
                 }
             },
-            "capi:health_106.5": {
-                "minecraft:health": {
-                    "max": 106.5
-                }
-            },
             "capi:health_107": {
                 "minecraft:health": {
                     "max": 107
-                }
-            },
-            "capi:health_107.5": {
-                "minecraft:health": {
-                    "max": 107.5
                 }
             },
             "capi:health_108": {
@@ -1380,19 +840,9 @@
                     "max": 108
                 }
             },
-            "capi:health_108.5": {
-                "minecraft:health": {
-                    "max": 108.5
-                }
-            },
             "capi:health_109": {
                 "minecraft:health": {
                     "max": 109
-                }
-            },
-            "capi:health_109.5": {
-                "minecraft:health": {
-                    "max": 109.5
                 }
             },
             "capi:health_110": {
@@ -1400,19 +850,9 @@
                     "max": 110
                 }
             },
-            "capi:health_110.5": {
-                "minecraft:health": {
-                    "max": 110.5
-                }
-            },
             "capi:health_111": {
                 "minecraft:health": {
                     "max": 111
-                }
-            },
-            "capi:health_111.5": {
-                "minecraft:health": {
-                    "max": 111.5
                 }
             },
             "capi:health_112": {
@@ -1420,19 +860,9 @@
                     "max": 112
                 }
             },
-            "capi:health_112.5": {
-                "minecraft:health": {
-                    "max": 112.5
-                }
-            },
             "capi:health_113": {
                 "minecraft:health": {
                     "max": 113
-                }
-            },
-            "capi:health_113.5": {
-                "minecraft:health": {
-                    "max": 113.5
                 }
             },
             "capi:health_114": {
@@ -1440,19 +870,9 @@
                     "max": 114
                 }
             },
-            "capi:health_114.5": {
-                "minecraft:health": {
-                    "max": 114.5
-                }
-            },
             "capi:health_115": {
                 "minecraft:health": {
                     "max": 115
-                }
-            },
-            "capi:health_115.5": {
-                "minecraft:health": {
-                    "max": 115.5
                 }
             },
             "capi:health_116": {
@@ -1460,19 +880,9 @@
                     "max": 116
                 }
             },
-            "capi:health_116.5": {
-                "minecraft:health": {
-                    "max": 116.5
-                }
-            },
             "capi:health_117": {
                 "minecraft:health": {
                     "max": 117
-                }
-            },
-            "capi:health_117.5": {
-                "minecraft:health": {
-                    "max": 117.5
                 }
             },
             "capi:health_118": {
@@ -1480,19 +890,9 @@
                     "max": 118
                 }
             },
-            "capi:health_118.5": {
-                "minecraft:health": {
-                    "max": 118.5
-                }
-            },
             "capi:health_119": {
                 "minecraft:health": {
                     "max": 119
-                }
-            },
-            "capi:health_119.5": {
-                "minecraft:health": {
-                    "max": 119.5
                 }
             },
             "capi:health_120": {
@@ -1500,19 +900,9 @@
                     "max": 120
                 }
             },
-            "capi:health_120.5": {
-                "minecraft:health": {
-                    "max": 120.5
-                }
-            },
             "capi:health_121": {
                 "minecraft:health": {
                     "max": 121
-                }
-            },
-            "capi:health_121.5": {
-                "minecraft:health": {
-                    "max": 121.5
                 }
             },
             "capi:health_122": {
@@ -1520,19 +910,9 @@
                     "max": 122
                 }
             },
-            "capi:health_122.5": {
-                "minecraft:health": {
-                    "max": 122.5
-                }
-            },
             "capi:health_123": {
                 "minecraft:health": {
                     "max": 123
-                }
-            },
-            "capi:health_123.5": {
-                "minecraft:health": {
-                    "max": 123.5
                 }
             },
             "capi:health_124": {
@@ -1540,19 +920,9 @@
                     "max": 124
                 }
             },
-            "capi:health_124.5": {
-                "minecraft:health": {
-                    "max": 124.5
-                }
-            },
             "capi:health_125": {
                 "minecraft:health": {
                     "max": 125
-                }
-            },
-            "capi:health_125.5": {
-                "minecraft:health": {
-                    "max": 125.5
                 }
             },
             "capi:health_126": {
@@ -1560,19 +930,9 @@
                     "max": 126
                 }
             },
-            "capi:health_126.5": {
-                "minecraft:health": {
-                    "max": 126.5
-                }
-            },
             "capi:health_127": {
                 "minecraft:health": {
                     "max": 127
-                }
-            },
-            "capi:health_127.5": {
-                "minecraft:health": {
-                    "max": 127.5
                 }
             },
             "capi:health_128": {
@@ -1580,19 +940,9 @@
                     "max": 128
                 }
             },
-            "capi:health_128.5": {
-                "minecraft:health": {
-                    "max": 128.5
-                }
-            },
             "capi:health_129": {
                 "minecraft:health": {
                     "max": 129
-                }
-            },
-            "capi:health_129.5": {
-                "minecraft:health": {
-                    "max": 129.5
                 }
             },
             "capi:health_130": {
@@ -1600,19 +950,9 @@
                     "max": 130
                 }
             },
-            "capi:health_130.5": {
-                "minecraft:health": {
-                    "max": 130.5
-                }
-            },
             "capi:health_131": {
                 "minecraft:health": {
                     "max": 131
-                }
-            },
-            "capi:health_131.5": {
-                "minecraft:health": {
-                    "max": 131.5
                 }
             },
             "capi:health_132": {
@@ -1620,19 +960,9 @@
                     "max": 132
                 }
             },
-            "capi:health_132.5": {
-                "minecraft:health": {
-                    "max": 132.5
-                }
-            },
             "capi:health_133": {
                 "minecraft:health": {
                     "max": 133
-                }
-            },
-            "capi:health_133.5": {
-                "minecraft:health": {
-                    "max": 133.5
                 }
             },
             "capi:health_134": {
@@ -1640,19 +970,9 @@
                     "max": 134
                 }
             },
-            "capi:health_134.5": {
-                "minecraft:health": {
-                    "max": 134.5
-                }
-            },
             "capi:health_135": {
                 "minecraft:health": {
                     "max": 135
-                }
-            },
-            "capi:health_135.5": {
-                "minecraft:health": {
-                    "max": 135.5
                 }
             },
             "capi:health_136": {
@@ -1660,19 +980,9 @@
                     "max": 136
                 }
             },
-            "capi:health_136.5": {
-                "minecraft:health": {
-                    "max": 136.5
-                }
-            },
             "capi:health_137": {
                 "minecraft:health": {
                     "max": 137
-                }
-            },
-            "capi:health_137.5": {
-                "minecraft:health": {
-                    "max": 137.5
                 }
             },
             "capi:health_138": {
@@ -1680,19 +990,9 @@
                     "max": 138
                 }
             },
-            "capi:health_138.5": {
-                "minecraft:health": {
-                    "max": 138.5
-                }
-            },
             "capi:health_139": {
                 "minecraft:health": {
                     "max": 139
-                }
-            },
-            "capi:health_139.5": {
-                "minecraft:health": {
-                    "max": 139.5
                 }
             },
             "capi:health_140": {
@@ -1700,19 +1000,9 @@
                     "max": 140
                 }
             },
-            "capi:health_140.5": {
-                "minecraft:health": {
-                    "max": 140.5
-                }
-            },
             "capi:health_141": {
                 "minecraft:health": {
                     "max": 141
-                }
-            },
-            "capi:health_141.5": {
-                "minecraft:health": {
-                    "max": 141.5
                 }
             },
             "capi:health_142": {
@@ -1720,19 +1010,9 @@
                     "max": 142
                 }
             },
-            "capi:health_142.5": {
-                "minecraft:health": {
-                    "max": 142.5
-                }
-            },
             "capi:health_143": {
                 "minecraft:health": {
                     "max": 143
-                }
-            },
-            "capi:health_143.5": {
-                "minecraft:health": {
-                    "max": 143.5
                 }
             },
             "capi:health_144": {
@@ -1740,19 +1020,9 @@
                     "max": 144
                 }
             },
-            "capi:health_144.5": {
-                "minecraft:health": {
-                    "max": 144.5
-                }
-            },
             "capi:health_145": {
                 "minecraft:health": {
                     "max": 145
-                }
-            },
-            "capi:health_145.5": {
-                "minecraft:health": {
-                    "max": 145.5
                 }
             },
             "capi:health_146": {
@@ -1760,19 +1030,9 @@
                     "max": 146
                 }
             },
-            "capi:health_146.5": {
-                "minecraft:health": {
-                    "max": 146.5
-                }
-            },
             "capi:health_147": {
                 "minecraft:health": {
                     "max": 147
-                }
-            },
-            "capi:health_147.5": {
-                "minecraft:health": {
-                    "max": 147.5
                 }
             },
             "capi:health_148": {
@@ -1780,19 +1040,9 @@
                     "max": 148
                 }
             },
-            "capi:health_148.5": {
-                "minecraft:health": {
-                    "max": 148.5
-                }
-            },
             "capi:health_149": {
                 "minecraft:health": {
                     "max": 149
-                }
-            },
-            "capi:health_149.5": {
-                "minecraft:health": {
-                    "max": 149.5
                 }
             },
             "capi:health_150": {
@@ -1800,19 +1050,9 @@
                     "max": 150
                 }
             },
-            "capi:health_150.5": {
-                "minecraft:health": {
-                    "max": 150.5
-                }
-            },
             "capi:health_151": {
                 "minecraft:health": {
                     "max": 151
-                }
-            },
-            "capi:health_151.5": {
-                "minecraft:health": {
-                    "max": 151.5
                 }
             },
             "capi:health_152": {
@@ -1820,19 +1060,9 @@
                     "max": 152
                 }
             },
-            "capi:health_152.5": {
-                "minecraft:health": {
-                    "max": 152.5
-                }
-            },
             "capi:health_153": {
                 "minecraft:health": {
                     "max": 153
-                }
-            },
-            "capi:health_153.5": {
-                "minecraft:health": {
-                    "max": 153.5
                 }
             },
             "capi:health_154": {
@@ -1840,19 +1070,9 @@
                     "max": 154
                 }
             },
-            "capi:health_154.5": {
-                "minecraft:health": {
-                    "max": 154.5
-                }
-            },
             "capi:health_155": {
                 "minecraft:health": {
                     "max": 155
-                }
-            },
-            "capi:health_155.5": {
-                "minecraft:health": {
-                    "max": 155.5
                 }
             },
             "capi:health_156": {
@@ -1860,19 +1080,9 @@
                     "max": 156
                 }
             },
-            "capi:health_156.5": {
-                "minecraft:health": {
-                    "max": 156.5
-                }
-            },
             "capi:health_157": {
                 "minecraft:health": {
                     "max": 157
-                }
-            },
-            "capi:health_157.5": {
-                "minecraft:health": {
-                    "max": 157.5
                 }
             },
             "capi:health_158": {
@@ -1880,19 +1090,9 @@
                     "max": 158
                 }
             },
-            "capi:health_158.5": {
-                "minecraft:health": {
-                    "max": 158.5
-                }
-            },
             "capi:health_159": {
                 "minecraft:health": {
                     "max": 159
-                }
-            },
-            "capi:health_159.5": {
-                "minecraft:health": {
-                    "max": 159.5
                 }
             },
             "capi:health_160": {
@@ -1900,19 +1100,9 @@
                     "max": 160
                 }
             },
-            "capi:health_160.5": {
-                "minecraft:health": {
-                    "max": 160.5
-                }
-            },
             "capi:health_161": {
                 "minecraft:health": {
                     "max": 161
-                }
-            },
-            "capi:health_161.5": {
-                "minecraft:health": {
-                    "max": 161.5
                 }
             },
             "capi:health_162": {
@@ -1920,19 +1110,9 @@
                     "max": 162
                 }
             },
-            "capi:health_162.5": {
-                "minecraft:health": {
-                    "max": 162.5
-                }
-            },
             "capi:health_163": {
                 "minecraft:health": {
                     "max": 163
-                }
-            },
-            "capi:health_163.5": {
-                "minecraft:health": {
-                    "max": 163.5
                 }
             },
             "capi:health_164": {
@@ -1940,19 +1120,9 @@
                     "max": 164
                 }
             },
-            "capi:health_164.5": {
-                "minecraft:health": {
-                    "max": 164.5
-                }
-            },
             "capi:health_165": {
                 "minecraft:health": {
                     "max": 165
-                }
-            },
-            "capi:health_165.5": {
-                "minecraft:health": {
-                    "max": 165.5
                 }
             },
             "capi:health_166": {
@@ -1960,19 +1130,9 @@
                     "max": 166
                 }
             },
-            "capi:health_166.5": {
-                "minecraft:health": {
-                    "max": 166.5
-                }
-            },
             "capi:health_167": {
                 "minecraft:health": {
                     "max": 167
-                }
-            },
-            "capi:health_167.5": {
-                "minecraft:health": {
-                    "max": 167.5
                 }
             },
             "capi:health_168": {
@@ -1980,19 +1140,9 @@
                     "max": 168
                 }
             },
-            "capi:health_168.5": {
-                "minecraft:health": {
-                    "max": 168.5
-                }
-            },
             "capi:health_169": {
                 "minecraft:health": {
                     "max": 169
-                }
-            },
-            "capi:health_169.5": {
-                "minecraft:health": {
-                    "max": 169.5
                 }
             },
             "capi:health_170": {
@@ -2000,19 +1150,9 @@
                     "max": 170
                 }
             },
-            "capi:health_170.5": {
-                "minecraft:health": {
-                    "max": 170.5
-                }
-            },
             "capi:health_171": {
                 "minecraft:health": {
                     "max": 171
-                }
-            },
-            "capi:health_171.5": {
-                "minecraft:health": {
-                    "max": 171.5
                 }
             },
             "capi:health_172": {
@@ -2020,19 +1160,9 @@
                     "max": 172
                 }
             },
-            "capi:health_172.5": {
-                "minecraft:health": {
-                    "max": 172.5
-                }
-            },
             "capi:health_173": {
                 "minecraft:health": {
                     "max": 173
-                }
-            },
-            "capi:health_173.5": {
-                "minecraft:health": {
-                    "max": 173.5
                 }
             },
             "capi:health_174": {
@@ -2040,19 +1170,9 @@
                     "max": 174
                 }
             },
-            "capi:health_174.5": {
-                "minecraft:health": {
-                    "max": 174.5
-                }
-            },
             "capi:health_175": {
                 "minecraft:health": {
                     "max": 175
-                }
-            },
-            "capi:health_175.5": {
-                "minecraft:health": {
-                    "max": 175.5
                 }
             },
             "capi:health_176": {
@@ -2060,19 +1180,9 @@
                     "max": 176
                 }
             },
-            "capi:health_176.5": {
-                "minecraft:health": {
-                    "max": 176.5
-                }
-            },
             "capi:health_177": {
                 "minecraft:health": {
                     "max": 177
-                }
-            },
-            "capi:health_177.5": {
-                "minecraft:health": {
-                    "max": 177.5
                 }
             },
             "capi:health_178": {
@@ -2080,19 +1190,9 @@
                     "max": 178
                 }
             },
-            "capi:health_178.5": {
-                "minecraft:health": {
-                    "max": 178.5
-                }
-            },
             "capi:health_179": {
                 "minecraft:health": {
                     "max": 179
-                }
-            },
-            "capi:health_179.5": {
-                "minecraft:health": {
-                    "max": 179.5
                 }
             },
             "capi:health_180": {
@@ -2100,19 +1200,9 @@
                     "max": 180
                 }
             },
-            "capi:health_180.5": {
-                "minecraft:health": {
-                    "max": 180.5
-                }
-            },
             "capi:health_181": {
                 "minecraft:health": {
                     "max": 181
-                }
-            },
-            "capi:health_181.5": {
-                "minecraft:health": {
-                    "max": 181.5
                 }
             },
             "capi:health_182": {
@@ -2120,19 +1210,9 @@
                     "max": 182
                 }
             },
-            "capi:health_182.5": {
-                "minecraft:health": {
-                    "max": 182.5
-                }
-            },
             "capi:health_183": {
                 "minecraft:health": {
                     "max": 183
-                }
-            },
-            "capi:health_183.5": {
-                "minecraft:health": {
-                    "max": 183.5
                 }
             },
             "capi:health_184": {
@@ -2140,19 +1220,9 @@
                     "max": 184
                 }
             },
-            "capi:health_184.5": {
-                "minecraft:health": {
-                    "max": 184.5
-                }
-            },
             "capi:health_185": {
                 "minecraft:health": {
                     "max": 185
-                }
-            },
-            "capi:health_185.5": {
-                "minecraft:health": {
-                    "max": 185.5
                 }
             },
             "capi:health_186": {
@@ -2160,19 +1230,9 @@
                     "max": 186
                 }
             },
-            "capi:health_186.5": {
-                "minecraft:health": {
-                    "max": 186.5
-                }
-            },
             "capi:health_187": {
                 "minecraft:health": {
                     "max": 187
-                }
-            },
-            "capi:health_187.5": {
-                "minecraft:health": {
-                    "max": 187.5
                 }
             },
             "capi:health_188": {
@@ -2180,19 +1240,9 @@
                     "max": 188
                 }
             },
-            "capi:health_188.5": {
-                "minecraft:health": {
-                    "max": 188.5
-                }
-            },
             "capi:health_189": {
                 "minecraft:health": {
                     "max": 189
-                }
-            },
-            "capi:health_189.5": {
-                "minecraft:health": {
-                    "max": 189.5
                 }
             },
             "capi:health_190": {
@@ -2200,19 +1250,9 @@
                     "max": 190
                 }
             },
-            "capi:health_190.5": {
-                "minecraft:health": {
-                    "max": 190.5
-                }
-            },
             "capi:health_191": {
                 "minecraft:health": {
                     "max": 191
-                }
-            },
-            "capi:health_191.5": {
-                "minecraft:health": {
-                    "max": 191.5
                 }
             },
             "capi:health_192": {
@@ -2220,19 +1260,9 @@
                     "max": 192
                 }
             },
-            "capi:health_192.5": {
-                "minecraft:health": {
-                    "max": 192.5
-                }
-            },
             "capi:health_193": {
                 "minecraft:health": {
                     "max": 193
-                }
-            },
-            "capi:health_193.5": {
-                "minecraft:health": {
-                    "max": 193.5
                 }
             },
             "capi:health_194": {
@@ -2240,19 +1270,9 @@
                     "max": 194
                 }
             },
-            "capi:health_194.5": {
-                "minecraft:health": {
-                    "max": 194.5
-                }
-            },
             "capi:health_195": {
                 "minecraft:health": {
                     "max": 195
-                }
-            },
-            "capi:health_195.5": {
-                "minecraft:health": {
-                    "max": 195.5
                 }
             },
             "capi:health_196": {
@@ -2260,19 +1280,9 @@
                     "max": 196
                 }
             },
-            "capi:health_196.5": {
-                "minecraft:health": {
-                    "max": 196.5
-                }
-            },
             "capi:health_197": {
                 "minecraft:health": {
                     "max": 197
-                }
-            },
-            "capi:health_197.5": {
-                "minecraft:health": {
-                    "max": 197.5
                 }
             },
             "capi:health_198": {
@@ -2280,19 +1290,9 @@
                     "max": 198
                 }
             },
-            "capi:health_198.5": {
-                "minecraft:health": {
-                    "max": 198.5
-                }
-            },
             "capi:health_199": {
                 "minecraft:health": {
                     "max": 199
-                }
-            },
-            "capi:health_199.5": {
-                "minecraft:health": {
-                    "max": 199.5
                 }
             },
             "capi:health_200": {
@@ -4548,19 +3548,9 @@
                     "component_groups": ["capi:size_4"]
                 }
             },
-            "capi:health_0.5": {
-                "add": {
-                    "component_groups": ["capi:health_0.5"]
-                }
-            },
             "capi:health_1": {
                 "add": {
                     "component_groups": ["capi:health_1"]
-                }
-            },
-            "capi:health_1.5": {
-                "add": {
-                    "component_groups": ["capi:health_1.5"]
                 }
             },
             "capi:health_2": {
@@ -4568,19 +3558,9 @@
                     "component_groups": ["capi:health_2"]
                 }
             },
-            "capi:health_2.5": {
-                "add": {
-                    "component_groups": ["capi:health_2.5"]
-                }
-            },
             "capi:health_3": {
                 "add": {
                     "component_groups": ["capi:health_3"]
-                }
-            },
-            "capi:health_3.5": {
-                "add": {
-                    "component_groups": ["capi:health_3.5"]
                 }
             },
             "capi:health_4": {
@@ -4588,19 +3568,9 @@
                     "component_groups": ["capi:health_4"]
                 }
             },
-            "capi:health_4.5": {
-                "add": {
-                    "component_groups": ["capi:health_4.5"]
-                }
-            },
             "capi:health_5": {
                 "add": {
                     "component_groups": ["capi:health_5"]
-                }
-            },
-            "capi:health_5.5": {
-                "add": {
-                    "component_groups": ["capi:health_5.5"]
                 }
             },
             "capi:health_6": {
@@ -4608,19 +3578,9 @@
                     "component_groups": ["capi:health_6"]
                 }
             },
-            "capi:health_6.5": {
-                "add": {
-                    "component_groups": ["capi:health_6.5"]
-                }
-            },
             "capi:health_7": {
                 "add": {
                     "component_groups": ["capi:health_7"]
-                }
-            },
-            "capi:health_7.5": {
-                "add": {
-                    "component_groups": ["capi:health_7.5"]
                 }
             },
             "capi:health_8": {
@@ -4628,19 +3588,9 @@
                     "component_groups": ["capi:health_8"]
                 }
             },
-            "capi:health_8.5": {
-                "add": {
-                    "component_groups": ["capi:health_8.5"]
-                }
-            },
             "capi:health_9": {
                 "add": {
                     "component_groups": ["capi:health_9"]
-                }
-            },
-            "capi:health_9.5": {
-                "add": {
-                    "component_groups": ["capi:health_9.5"]
                 }
             },
             "capi:health_10": {
@@ -4648,19 +3598,9 @@
                     "component_groups": ["capi:health_10"]
                 }
             },
-            "capi:health_10.5": {
-                "add": {
-                    "component_groups": ["capi:health_10.5"]
-                }
-            },
             "capi:health_11": {
                 "add": {
                     "component_groups": ["capi:health_11"]
-                }
-            },
-            "capi:health_11.5": {
-                "add": {
-                    "component_groups": ["capi:health_11.5"]
                 }
             },
             "capi:health_12": {
@@ -4668,19 +3608,9 @@
                     "component_groups": ["capi:health_12"]
                 }
             },
-            "capi:health_12.5": {
-                "add": {
-                    "component_groups": ["capi:health_12.5"]
-                }
-            },
             "capi:health_13": {
                 "add": {
                     "component_groups": ["capi:health_13"]
-                }
-            },
-            "capi:health_13.5": {
-                "add": {
-                    "component_groups": ["capi:health_13.5"]
                 }
             },
             "capi:health_14": {
@@ -4688,19 +3618,9 @@
                     "component_groups": ["capi:health_14"]
                 }
             },
-            "capi:health_14.5": {
-                "add": {
-                    "component_groups": ["capi:health_14.5"]
-                }
-            },
             "capi:health_15": {
                 "add": {
                     "component_groups": ["capi:health_15"]
-                }
-            },
-            "capi:health_15.5": {
-                "add": {
-                    "component_groups": ["capi:health_15.5"]
                 }
             },
             "capi:health_16": {
@@ -4708,19 +3628,9 @@
                     "component_groups": ["capi:health_16"]
                 }
             },
-            "capi:health_16.5": {
-                "add": {
-                    "component_groups": ["capi:health_16.5"]
-                }
-            },
             "capi:health_17": {
                 "add": {
                     "component_groups": ["capi:health_17"]
-                }
-            },
-            "capi:health_17.5": {
-                "add": {
-                    "component_groups": ["capi:health_17.5"]
                 }
             },
             "capi:health_18": {
@@ -4728,19 +3638,9 @@
                     "component_groups": ["capi:health_18"]
                 }
             },
-            "capi:health_18.5": {
-                "add": {
-                    "component_groups": ["capi:health_18.5"]
-                }
-            },
             "capi:health_19": {
                 "add": {
                     "component_groups": ["capi:health_19"]
-                }
-            },
-            "capi:health_19.5": {
-                "add": {
-                    "component_groups": ["capi:health_19.5"]
                 }
             },
             "capi:health_20": {
@@ -4748,19 +3648,9 @@
                     "component_groups": ["capi:health_20"]
                 }
             },
-            "capi:health_20.5": {
-                "add": {
-                    "component_groups": ["capi:health_20.5"]
-                }
-            },
             "capi:health_21": {
                 "add": {
                     "component_groups": ["capi:health_21"]
-                }
-            },
-            "capi:health_21.5": {
-                "add": {
-                    "component_groups": ["capi:health_21.5"]
                 }
             },
             "capi:health_22": {
@@ -4768,19 +3658,9 @@
                     "component_groups": ["capi:health_22"]
                 }
             },
-            "capi:health_22.5": {
-                "add": {
-                    "component_groups": ["capi:health_22.5"]
-                }
-            },
             "capi:health_23": {
                 "add": {
                     "component_groups": ["capi:health_23"]
-                }
-            },
-            "capi:health_23.5": {
-                "add": {
-                    "component_groups": ["capi:health_23.5"]
                 }
             },
             "capi:health_24": {
@@ -4788,19 +3668,9 @@
                     "component_groups": ["capi:health_24"]
                 }
             },
-            "capi:health_24.5": {
-                "add": {
-                    "component_groups": ["capi:health_24.5"]
-                }
-            },
             "capi:health_25": {
                 "add": {
                     "component_groups": ["capi:health_25"]
-                }
-            },
-            "capi:health_25.5": {
-                "add": {
-                    "component_groups": ["capi:health_25.5"]
                 }
             },
             "capi:health_26": {
@@ -4808,19 +3678,9 @@
                     "component_groups": ["capi:health_26"]
                 }
             },
-            "capi:health_26.5": {
-                "add": {
-                    "component_groups": ["capi:health_26.5"]
-                }
-            },
             "capi:health_27": {
                 "add": {
                     "component_groups": ["capi:health_27"]
-                }
-            },
-            "capi:health_27.5": {
-                "add": {
-                    "component_groups": ["capi:health_27.5"]
                 }
             },
             "capi:health_28": {
@@ -4828,19 +3688,9 @@
                     "component_groups": ["capi:health_28"]
                 }
             },
-            "capi:health_28.5": {
-                "add": {
-                    "component_groups": ["capi:health_28.5"]
-                }
-            },
             "capi:health_29": {
                 "add": {
                     "component_groups": ["capi:health_29"]
-                }
-            },
-            "capi:health_29.5": {
-                "add": {
-                    "component_groups": ["capi:health_29.5"]
                 }
             },
             "capi:health_30": {
@@ -4848,19 +3698,9 @@
                     "component_groups": ["capi:health_30"]
                 }
             },
-            "capi:health_30.5": {
-                "add": {
-                    "component_groups": ["capi:health_30.5"]
-                }
-            },
             "capi:health_31": {
                 "add": {
                     "component_groups": ["capi:health_31"]
-                }
-            },
-            "capi:health_31.5": {
-                "add": {
-                    "component_groups": ["capi:health_31.5"]
                 }
             },
             "capi:health_32": {
@@ -4868,19 +3708,9 @@
                     "component_groups": ["capi:health_32"]
                 }
             },
-            "capi:health_32.5": {
-                "add": {
-                    "component_groups": ["capi:health_32.5"]
-                }
-            },
             "capi:health_33": {
                 "add": {
                     "component_groups": ["capi:health_33"]
-                }
-            },
-            "capi:health_33.5": {
-                "add": {
-                    "component_groups": ["capi:health_33.5"]
                 }
             },
             "capi:health_34": {
@@ -4888,19 +3718,9 @@
                     "component_groups": ["capi:health_34"]
                 }
             },
-            "capi:health_34.5": {
-                "add": {
-                    "component_groups": ["capi:health_34.5"]
-                }
-            },
             "capi:health_35": {
                 "add": {
                     "component_groups": ["capi:health_35"]
-                }
-            },
-            "capi:health_35.5": {
-                "add": {
-                    "component_groups": ["capi:health_35.5"]
                 }
             },
             "capi:health_36": {
@@ -4908,19 +3728,9 @@
                     "component_groups": ["capi:health_36"]
                 }
             },
-            "capi:health_36.5": {
-                "add": {
-                    "component_groups": ["capi:health_36.5"]
-                }
-            },
             "capi:health_37": {
                 "add": {
                     "component_groups": ["capi:health_37"]
-                }
-            },
-            "capi:health_37.5": {
-                "add": {
-                    "component_groups": ["capi:health_37.5"]
                 }
             },
             "capi:health_38": {
@@ -4928,19 +3738,9 @@
                     "component_groups": ["capi:health_38"]
                 }
             },
-            "capi:health_38.5": {
-                "add": {
-                    "component_groups": ["capi:health_38.5"]
-                }
-            },
             "capi:health_39": {
                 "add": {
                     "component_groups": ["capi:health_39"]
-                }
-            },
-            "capi:health_39.5": {
-                "add": {
-                    "component_groups": ["capi:health_39.5"]
                 }
             },
             "capi:health_40": {
@@ -4948,19 +3748,9 @@
                     "component_groups": ["capi:health_40"]
                 }
             },
-            "capi:health_40.5": {
-                "add": {
-                    "component_groups": ["capi:health_40.5"]
-                }
-            },
             "capi:health_41": {
                 "add": {
                     "component_groups": ["capi:health_41"]
-                }
-            },
-            "capi:health_41.5": {
-                "add": {
-                    "component_groups": ["capi:health_41.5"]
                 }
             },
             "capi:health_42": {
@@ -4968,19 +3758,9 @@
                     "component_groups": ["capi:health_42"]
                 }
             },
-            "capi:health_42.5": {
-                "add": {
-                    "component_groups": ["capi:health_42.5"]
-                }
-            },
             "capi:health_43": {
                 "add": {
                     "component_groups": ["capi:health_43"]
-                }
-            },
-            "capi:health_43.5": {
-                "add": {
-                    "component_groups": ["capi:health_43.5"]
                 }
             },
             "capi:health_44": {
@@ -4988,19 +3768,9 @@
                     "component_groups": ["capi:health_44"]
                 }
             },
-            "capi:health_44.5": {
-                "add": {
-                    "component_groups": ["capi:health_44.5"]
-                }
-            },
             "capi:health_45": {
                 "add": {
                     "component_groups": ["capi:health_45"]
-                }
-            },
-            "capi:health_45.5": {
-                "add": {
-                    "component_groups": ["capi:health_45.5"]
                 }
             },
             "capi:health_46": {
@@ -5008,19 +3778,9 @@
                     "component_groups": ["capi:health_46"]
                 }
             },
-            "capi:health_46.5": {
-                "add": {
-                    "component_groups": ["capi:health_46.5"]
-                }
-            },
             "capi:health_47": {
                 "add": {
                     "component_groups": ["capi:health_47"]
-                }
-            },
-            "capi:health_47.5": {
-                "add": {
-                    "component_groups": ["capi:health_47.5"]
                 }
             },
             "capi:health_48": {
@@ -5028,19 +3788,9 @@
                     "component_groups": ["capi:health_48"]
                 }
             },
-            "capi:health_48.5": {
-                "add": {
-                    "component_groups": ["capi:health_48.5"]
-                }
-            },
             "capi:health_49": {
                 "add": {
                     "component_groups": ["capi:health_49"]
-                }
-            },
-            "capi:health_49.5": {
-                "add": {
-                    "component_groups": ["capi:health_49.5"]
                 }
             },
             "capi:health_50": {
@@ -5048,19 +3798,9 @@
                     "component_groups": ["capi:health_50"]
                 }
             },
-            "capi:health_50.5": {
-                "add": {
-                    "component_groups": ["capi:health_50.5"]
-                }
-            },
             "capi:health_51": {
                 "add": {
                     "component_groups": ["capi:health_51"]
-                }
-            },
-            "capi:health_51.5": {
-                "add": {
-                    "component_groups": ["capi:health_51.5"]
                 }
             },
             "capi:health_52": {
@@ -5068,19 +3808,9 @@
                     "component_groups": ["capi:health_52"]
                 }
             },
-            "capi:health_52.5": {
-                "add": {
-                    "component_groups": ["capi:health_52.5"]
-                }
-            },
             "capi:health_53": {
                 "add": {
                     "component_groups": ["capi:health_53"]
-                }
-            },
-            "capi:health_53.5": {
-                "add": {
-                    "component_groups": ["capi:health_53.5"]
                 }
             },
             "capi:health_54": {
@@ -5088,19 +3818,9 @@
                     "component_groups": ["capi:health_54"]
                 }
             },
-            "capi:health_54.5": {
-                "add": {
-                    "component_groups": ["capi:health_54.5"]
-                }
-            },
             "capi:health_55": {
                 "add": {
                     "component_groups": ["capi:health_55"]
-                }
-            },
-            "capi:health_55.5": {
-                "add": {
-                    "component_groups": ["capi:health_55.5"]
                 }
             },
             "capi:health_56": {
@@ -5108,19 +3828,9 @@
                     "component_groups": ["capi:health_56"]
                 }
             },
-            "capi:health_56.5": {
-                "add": {
-                    "component_groups": ["capi:health_56.5"]
-                }
-            },
             "capi:health_57": {
                 "add": {
                     "component_groups": ["capi:health_57"]
-                }
-            },
-            "capi:health_57.5": {
-                "add": {
-                    "component_groups": ["capi:health_57.5"]
                 }
             },
             "capi:health_58": {
@@ -5128,19 +3838,9 @@
                     "component_groups": ["capi:health_58"]
                 }
             },
-            "capi:health_58.5": {
-                "add": {
-                    "component_groups": ["capi:health_58.5"]
-                }
-            },
             "capi:health_59": {
                 "add": {
                     "component_groups": ["capi:health_59"]
-                }
-            },
-            "capi:health_59.5": {
-                "add": {
-                    "component_groups": ["capi:health_59.5"]
                 }
             },
             "capi:health_60": {
@@ -5148,19 +3848,9 @@
                     "component_groups": ["capi:health_60"]
                 }
             },
-            "capi:health_60.5": {
-                "add": {
-                    "component_groups": ["capi:health_60.5"]
-                }
-            },
             "capi:health_61": {
                 "add": {
                     "component_groups": ["capi:health_61"]
-                }
-            },
-            "capi:health_61.5": {
-                "add": {
-                    "component_groups": ["capi:health_61.5"]
                 }
             },
             "capi:health_62": {
@@ -5168,19 +3858,9 @@
                     "component_groups": ["capi:health_62"]
                 }
             },
-            "capi:health_62.5": {
-                "add": {
-                    "component_groups": ["capi:health_62.5"]
-                }
-            },
             "capi:health_63": {
                 "add": {
                     "component_groups": ["capi:health_63"]
-                }
-            },
-            "capi:health_63.5": {
-                "add": {
-                    "component_groups": ["capi:health_63.5"]
                 }
             },
             "capi:health_64": {
@@ -5188,19 +3868,9 @@
                     "component_groups": ["capi:health_64"]
                 }
             },
-            "capi:health_64.5": {
-                "add": {
-                    "component_groups": ["capi:health_64.5"]
-                }
-            },
             "capi:health_65": {
                 "add": {
                     "component_groups": ["capi:health_65"]
-                }
-            },
-            "capi:health_65.5": {
-                "add": {
-                    "component_groups": ["capi:health_65.5"]
                 }
             },
             "capi:health_66": {
@@ -5208,19 +3878,9 @@
                     "component_groups": ["capi:health_66"]
                 }
             },
-            "capi:health_66.5": {
-                "add": {
-                    "component_groups": ["capi:health_66.5"]
-                }
-            },
             "capi:health_67": {
                 "add": {
                     "component_groups": ["capi:health_67"]
-                }
-            },
-            "capi:health_67.5": {
-                "add": {
-                    "component_groups": ["capi:health_67.5"]
                 }
             },
             "capi:health_68": {
@@ -5228,19 +3888,9 @@
                     "component_groups": ["capi:health_68"]
                 }
             },
-            "capi:health_68.5": {
-                "add": {
-                    "component_groups": ["capi:health_68.5"]
-                }
-            },
             "capi:health_69": {
                 "add": {
                     "component_groups": ["capi:health_69"]
-                }
-            },
-            "capi:health_69.5": {
-                "add": {
-                    "component_groups": ["capi:health_69.5"]
                 }
             },
             "capi:health_70": {
@@ -5248,19 +3898,9 @@
                     "component_groups": ["capi:health_70"]
                 }
             },
-            "capi:health_70.5": {
-                "add": {
-                    "component_groups": ["capi:health_70.5"]
-                }
-            },
             "capi:health_71": {
                 "add": {
                     "component_groups": ["capi:health_71"]
-                }
-            },
-            "capi:health_71.5": {
-                "add": {
-                    "component_groups": ["capi:health_71.5"]
                 }
             },
             "capi:health_72": {
@@ -5268,19 +3908,9 @@
                     "component_groups": ["capi:health_72"]
                 }
             },
-            "capi:health_72.5": {
-                "add": {
-                    "component_groups": ["capi:health_72.5"]
-                }
-            },
             "capi:health_73": {
                 "add": {
                     "component_groups": ["capi:health_73"]
-                }
-            },
-            "capi:health_73.5": {
-                "add": {
-                    "component_groups": ["capi:health_73.5"]
                 }
             },
             "capi:health_74": {
@@ -5288,19 +3918,9 @@
                     "component_groups": ["capi:health_74"]
                 }
             },
-            "capi:health_74.5": {
-                "add": {
-                    "component_groups": ["capi:health_74.5"]
-                }
-            },
             "capi:health_75": {
                 "add": {
                     "component_groups": ["capi:health_75"]
-                }
-            },
-            "capi:health_75.5": {
-                "add": {
-                    "component_groups": ["capi:health_75.5"]
                 }
             },
             "capi:health_76": {
@@ -5308,19 +3928,9 @@
                     "component_groups": ["capi:health_76"]
                 }
             },
-            "capi:health_76.5": {
-                "add": {
-                    "component_groups": ["capi:health_76.5"]
-                }
-            },
             "capi:health_77": {
                 "add": {
                     "component_groups": ["capi:health_77"]
-                }
-            },
-            "capi:health_77.5": {
-                "add": {
-                    "component_groups": ["capi:health_77.5"]
                 }
             },
             "capi:health_78": {
@@ -5328,19 +3938,9 @@
                     "component_groups": ["capi:health_78"]
                 }
             },
-            "capi:health_78.5": {
-                "add": {
-                    "component_groups": ["capi:health_78.5"]
-                }
-            },
             "capi:health_79": {
                 "add": {
                     "component_groups": ["capi:health_79"]
-                }
-            },
-            "capi:health_79.5": {
-                "add": {
-                    "component_groups": ["capi:health_79.5"]
                 }
             },
             "capi:health_80": {
@@ -5348,19 +3948,9 @@
                     "component_groups": ["capi:health_80"]
                 }
             },
-            "capi:health_80.5": {
-                "add": {
-                    "component_groups": ["capi:health_80.5"]
-                }
-            },
             "capi:health_81": {
                 "add": {
                     "component_groups": ["capi:health_81"]
-                }
-            },
-            "capi:health_81.5": {
-                "add": {
-                    "component_groups": ["capi:health_81.5"]
                 }
             },
             "capi:health_82": {
@@ -5368,19 +3958,9 @@
                     "component_groups": ["capi:health_82"]
                 }
             },
-            "capi:health_82.5": {
-                "add": {
-                    "component_groups": ["capi:health_82.5"]
-                }
-            },
             "capi:health_83": {
                 "add": {
                     "component_groups": ["capi:health_83"]
-                }
-            },
-            "capi:health_83.5": {
-                "add": {
-                    "component_groups": ["capi:health_83.5"]
                 }
             },
             "capi:health_84": {
@@ -5388,19 +3968,9 @@
                     "component_groups": ["capi:health_84"]
                 }
             },
-            "capi:health_84.5": {
-                "add": {
-                    "component_groups": ["capi:health_84.5"]
-                }
-            },
             "capi:health_85": {
                 "add": {
                     "component_groups": ["capi:health_85"]
-                }
-            },
-            "capi:health_85.5": {
-                "add": {
-                    "component_groups": ["capi:health_85.5"]
                 }
             },
             "capi:health_86": {
@@ -5408,19 +3978,9 @@
                     "component_groups": ["capi:health_86"]
                 }
             },
-            "capi:health_86.5": {
-                "add": {
-                    "component_groups": ["capi:health_86.5"]
-                }
-            },
             "capi:health_87": {
                 "add": {
                     "component_groups": ["capi:health_87"]
-                }
-            },
-            "capi:health_87.5": {
-                "add": {
-                    "component_groups": ["capi:health_87.5"]
                 }
             },
             "capi:health_88": {
@@ -5428,19 +3988,9 @@
                     "component_groups": ["capi:health_88"]
                 }
             },
-            "capi:health_88.5": {
-                "add": {
-                    "component_groups": ["capi:health_88.5"]
-                }
-            },
             "capi:health_89": {
                 "add": {
                     "component_groups": ["capi:health_89"]
-                }
-            },
-            "capi:health_89.5": {
-                "add": {
-                    "component_groups": ["capi:health_89.5"]
                 }
             },
             "capi:health_90": {
@@ -5448,19 +3998,9 @@
                     "component_groups": ["capi:health_90"]
                 }
             },
-            "capi:health_90.5": {
-                "add": {
-                    "component_groups": ["capi:health_90.5"]
-                }
-            },
             "capi:health_91": {
                 "add": {
                     "component_groups": ["capi:health_91"]
-                }
-            },
-            "capi:health_91.5": {
-                "add": {
-                    "component_groups": ["capi:health_91.5"]
                 }
             },
             "capi:health_92": {
@@ -5468,19 +4008,9 @@
                     "component_groups": ["capi:health_92"]
                 }
             },
-            "capi:health_92.5": {
-                "add": {
-                    "component_groups": ["capi:health_92.5"]
-                }
-            },
             "capi:health_93": {
                 "add": {
                     "component_groups": ["capi:health_93"]
-                }
-            },
-            "capi:health_93.5": {
-                "add": {
-                    "component_groups": ["capi:health_93.5"]
                 }
             },
             "capi:health_94": {
@@ -5488,19 +4018,9 @@
                     "component_groups": ["capi:health_94"]
                 }
             },
-            "capi:health_94.5": {
-                "add": {
-                    "component_groups": ["capi:health_94.5"]
-                }
-            },
             "capi:health_95": {
                 "add": {
                     "component_groups": ["capi:health_95"]
-                }
-            },
-            "capi:health_95.5": {
-                "add": {
-                    "component_groups": ["capi:health_95.5"]
                 }
             },
             "capi:health_96": {
@@ -5508,19 +4028,9 @@
                     "component_groups": ["capi:health_96"]
                 }
             },
-            "capi:health_96.5": {
-                "add": {
-                    "component_groups": ["capi:health_96.5"]
-                }
-            },
             "capi:health_97": {
                 "add": {
                     "component_groups": ["capi:health_97"]
-                }
-            },
-            "capi:health_97.5": {
-                "add": {
-                    "component_groups": ["capi:health_97.5"]
                 }
             },
             "capi:health_98": {
@@ -5528,19 +4038,9 @@
                     "component_groups": ["capi:health_98"]
                 }
             },
-            "capi:health_98.5": {
-                "add": {
-                    "component_groups": ["capi:health_98.5"]
-                }
-            },
             "capi:health_99": {
                 "add": {
                     "component_groups": ["capi:health_99"]
-                }
-            },
-            "capi:health_99.5": {
-                "add": {
-                    "component_groups": ["capi:health_99.5"]
                 }
             },
             "capi:health_100": {
@@ -5548,19 +4048,9 @@
                     "component_groups": ["capi:health_100"]
                 }
             },
-            "capi:health_100.5": {
-                "add": {
-                    "component_groups": ["capi:health_100.5"]
-                }
-            },
             "capi:health_101": {
                 "add": {
                     "component_groups": ["capi:health_101"]
-                }
-            },
-            "capi:health_101.5": {
-                "add": {
-                    "component_groups": ["capi:health_101.5"]
                 }
             },
             "capi:health_102": {
@@ -5568,19 +4058,9 @@
                     "component_groups": ["capi:health_102"]
                 }
             },
-            "capi:health_102.5": {
-                "add": {
-                    "component_groups": ["capi:health_102.5"]
-                }
-            },
             "capi:health_103": {
                 "add": {
                     "component_groups": ["capi:health_103"]
-                }
-            },
-            "capi:health_103.5": {
-                "add": {
-                    "component_groups": ["capi:health_103.5"]
                 }
             },
             "capi:health_104": {
@@ -5588,19 +4068,9 @@
                     "component_groups": ["capi:health_104"]
                 }
             },
-            "capi:health_104.5": {
-                "add": {
-                    "component_groups": ["capi:health_104.5"]
-                }
-            },
             "capi:health_105": {
                 "add": {
                     "component_groups": ["capi:health_105"]
-                }
-            },
-            "capi:health_105.5": {
-                "add": {
-                    "component_groups": ["capi:health_105.5"]
                 }
             },
             "capi:health_106": {
@@ -5608,19 +4078,9 @@
                     "component_groups": ["capi:health_106"]
                 }
             },
-            "capi:health_106.5": {
-                "add": {
-                    "component_groups": ["capi:health_106.5"]
-                }
-            },
             "capi:health_107": {
                 "add": {
                     "component_groups": ["capi:health_107"]
-                }
-            },
-            "capi:health_107.5": {
-                "add": {
-                    "component_groups": ["capi:health_107.5"]
                 }
             },
             "capi:health_108": {
@@ -5628,19 +4088,9 @@
                     "component_groups": ["capi:health_108"]
                 }
             },
-            "capi:health_108.5": {
-                "add": {
-                    "component_groups": ["capi:health_108.5"]
-                }
-            },
             "capi:health_109": {
                 "add": {
                     "component_groups": ["capi:health_109"]
-                }
-            },
-            "capi:health_109.5": {
-                "add": {
-                    "component_groups": ["capi:health_109.5"]
                 }
             },
             "capi:health_110": {
@@ -5648,19 +4098,9 @@
                     "component_groups": ["capi:health_110"]
                 }
             },
-            "capi:health_110.5": {
-                "add": {
-                    "component_groups": ["capi:health_110.5"]
-                }
-            },
             "capi:health_111": {
                 "add": {
                     "component_groups": ["capi:health_111"]
-                }
-            },
-            "capi:health_111.5": {
-                "add": {
-                    "component_groups": ["capi:health_111.5"]
                 }
             },
             "capi:health_112": {
@@ -5668,19 +4108,9 @@
                     "component_groups": ["capi:health_112"]
                 }
             },
-            "capi:health_112.5": {
-                "add": {
-                    "component_groups": ["capi:health_112.5"]
-                }
-            },
             "capi:health_113": {
                 "add": {
                     "component_groups": ["capi:health_113"]
-                }
-            },
-            "capi:health_113.5": {
-                "add": {
-                    "component_groups": ["capi:health_113.5"]
                 }
             },
             "capi:health_114": {
@@ -5688,19 +4118,9 @@
                     "component_groups": ["capi:health_114"]
                 }
             },
-            "capi:health_114.5": {
-                "add": {
-                    "component_groups": ["capi:health_114.5"]
-                }
-            },
             "capi:health_115": {
                 "add": {
                     "component_groups": ["capi:health_115"]
-                }
-            },
-            "capi:health_115.5": {
-                "add": {
-                    "component_groups": ["capi:health_115.5"]
                 }
             },
             "capi:health_116": {
@@ -5708,19 +4128,9 @@
                     "component_groups": ["capi:health_116"]
                 }
             },
-            "capi:health_116.5": {
-                "add": {
-                    "component_groups": ["capi:health_116.5"]
-                }
-            },
             "capi:health_117": {
                 "add": {
                     "component_groups": ["capi:health_117"]
-                }
-            },
-            "capi:health_117.5": {
-                "add": {
-                    "component_groups": ["capi:health_117.5"]
                 }
             },
             "capi:health_118": {
@@ -5728,19 +4138,9 @@
                     "component_groups": ["capi:health_118"]
                 }
             },
-            "capi:health_118.5": {
-                "add": {
-                    "component_groups": ["capi:health_118.5"]
-                }
-            },
             "capi:health_119": {
                 "add": {
                     "component_groups": ["capi:health_119"]
-                }
-            },
-            "capi:health_119.5": {
-                "add": {
-                    "component_groups": ["capi:health_119.5"]
                 }
             },
             "capi:health_120": {
@@ -5748,19 +4148,9 @@
                     "component_groups": ["capi:health_120"]
                 }
             },
-            "capi:health_120.5": {
-                "add": {
-                    "component_groups": ["capi:health_120.5"]
-                }
-            },
             "capi:health_121": {
                 "add": {
                     "component_groups": ["capi:health_121"]
-                }
-            },
-            "capi:health_121.5": {
-                "add": {
-                    "component_groups": ["capi:health_121.5"]
                 }
             },
             "capi:health_122": {
@@ -5768,19 +4158,9 @@
                     "component_groups": ["capi:health_122"]
                 }
             },
-            "capi:health_122.5": {
-                "add": {
-                    "component_groups": ["capi:health_122.5"]
-                }
-            },
             "capi:health_123": {
                 "add": {
                     "component_groups": ["capi:health_123"]
-                }
-            },
-            "capi:health_123.5": {
-                "add": {
-                    "component_groups": ["capi:health_123.5"]
                 }
             },
             "capi:health_124": {
@@ -5788,19 +4168,9 @@
                     "component_groups": ["capi:health_124"]
                 }
             },
-            "capi:health_124.5": {
-                "add": {
-                    "component_groups": ["capi:health_124.5"]
-                }
-            },
             "capi:health_125": {
                 "add": {
                     "component_groups": ["capi:health_125"]
-                }
-            },
-            "capi:health_125.5": {
-                "add": {
-                    "component_groups": ["capi:health_125.5"]
                 }
             },
             "capi:health_126": {
@@ -5808,19 +4178,9 @@
                     "component_groups": ["capi:health_126"]
                 }
             },
-            "capi:health_126.5": {
-                "add": {
-                    "component_groups": ["capi:health_126.5"]
-                }
-            },
             "capi:health_127": {
                 "add": {
                     "component_groups": ["capi:health_127"]
-                }
-            },
-            "capi:health_127.5": {
-                "add": {
-                    "component_groups": ["capi:health_127.5"]
                 }
             },
             "capi:health_128": {
@@ -5828,19 +4188,9 @@
                     "component_groups": ["capi:health_128"]
                 }
             },
-            "capi:health_128.5": {
-                "add": {
-                    "component_groups": ["capi:health_128.5"]
-                }
-            },
             "capi:health_129": {
                 "add": {
                     "component_groups": ["capi:health_129"]
-                }
-            },
-            "capi:health_129.5": {
-                "add": {
-                    "component_groups": ["capi:health_129.5"]
                 }
             },
             "capi:health_130": {
@@ -5848,19 +4198,9 @@
                     "component_groups": ["capi:health_130"]
                 }
             },
-            "capi:health_130.5": {
-                "add": {
-                    "component_groups": ["capi:health_130.5"]
-                }
-            },
             "capi:health_131": {
                 "add": {
                     "component_groups": ["capi:health_131"]
-                }
-            },
-            "capi:health_131.5": {
-                "add": {
-                    "component_groups": ["capi:health_131.5"]
                 }
             },
             "capi:health_132": {
@@ -5868,19 +4208,9 @@
                     "component_groups": ["capi:health_132"]
                 }
             },
-            "capi:health_132.5": {
-                "add": {
-                    "component_groups": ["capi:health_132.5"]
-                }
-            },
             "capi:health_133": {
                 "add": {
                     "component_groups": ["capi:health_133"]
-                }
-            },
-            "capi:health_133.5": {
-                "add": {
-                    "component_groups": ["capi:health_133.5"]
                 }
             },
             "capi:health_134": {
@@ -5888,19 +4218,9 @@
                     "component_groups": ["capi:health_134"]
                 }
             },
-            "capi:health_134.5": {
-                "add": {
-                    "component_groups": ["capi:health_134.5"]
-                }
-            },
             "capi:health_135": {
                 "add": {
                     "component_groups": ["capi:health_135"]
-                }
-            },
-            "capi:health_135.5": {
-                "add": {
-                    "component_groups": ["capi:health_135.5"]
                 }
             },
             "capi:health_136": {
@@ -5908,19 +4228,9 @@
                     "component_groups": ["capi:health_136"]
                 }
             },
-            "capi:health_136.5": {
-                "add": {
-                    "component_groups": ["capi:health_136.5"]
-                }
-            },
             "capi:health_137": {
                 "add": {
                     "component_groups": ["capi:health_137"]
-                }
-            },
-            "capi:health_137.5": {
-                "add": {
-                    "component_groups": ["capi:health_137.5"]
                 }
             },
             "capi:health_138": {
@@ -5928,19 +4238,9 @@
                     "component_groups": ["capi:health_138"]
                 }
             },
-            "capi:health_138.5": {
-                "add": {
-                    "component_groups": ["capi:health_138.5"]
-                }
-            },
             "capi:health_139": {
                 "add": {
                     "component_groups": ["capi:health_139"]
-                }
-            },
-            "capi:health_139.5": {
-                "add": {
-                    "component_groups": ["capi:health_139.5"]
                 }
             },
             "capi:health_140": {
@@ -5948,19 +4248,9 @@
                     "component_groups": ["capi:health_140"]
                 }
             },
-            "capi:health_140.5": {
-                "add": {
-                    "component_groups": ["capi:health_140.5"]
-                }
-            },
             "capi:health_141": {
                 "add": {
                     "component_groups": ["capi:health_141"]
-                }
-            },
-            "capi:health_141.5": {
-                "add": {
-                    "component_groups": ["capi:health_141.5"]
                 }
             },
             "capi:health_142": {
@@ -5968,19 +4258,9 @@
                     "component_groups": ["capi:health_142"]
                 }
             },
-            "capi:health_142.5": {
-                "add": {
-                    "component_groups": ["capi:health_142.5"]
-                }
-            },
             "capi:health_143": {
                 "add": {
                     "component_groups": ["capi:health_143"]
-                }
-            },
-            "capi:health_143.5": {
-                "add": {
-                    "component_groups": ["capi:health_143.5"]
                 }
             },
             "capi:health_144": {
@@ -5988,19 +4268,9 @@
                     "component_groups": ["capi:health_144"]
                 }
             },
-            "capi:health_144.5": {
-                "add": {
-                    "component_groups": ["capi:health_144.5"]
-                }
-            },
             "capi:health_145": {
                 "add": {
                     "component_groups": ["capi:health_145"]
-                }
-            },
-            "capi:health_145.5": {
-                "add": {
-                    "component_groups": ["capi:health_145.5"]
                 }
             },
             "capi:health_146": {
@@ -6008,19 +4278,9 @@
                     "component_groups": ["capi:health_146"]
                 }
             },
-            "capi:health_146.5": {
-                "add": {
-                    "component_groups": ["capi:health_146.5"]
-                }
-            },
             "capi:health_147": {
                 "add": {
                     "component_groups": ["capi:health_147"]
-                }
-            },
-            "capi:health_147.5": {
-                "add": {
-                    "component_groups": ["capi:health_147.5"]
                 }
             },
             "capi:health_148": {
@@ -6028,19 +4288,9 @@
                     "component_groups": ["capi:health_148"]
                 }
             },
-            "capi:health_148.5": {
-                "add": {
-                    "component_groups": ["capi:health_148.5"]
-                }
-            },
             "capi:health_149": {
                 "add": {
                     "component_groups": ["capi:health_149"]
-                }
-            },
-            "capi:health_149.5": {
-                "add": {
-                    "component_groups": ["capi:health_149.5"]
                 }
             },
             "capi:health_150": {
@@ -6048,19 +4298,9 @@
                     "component_groups": ["capi:health_150"]
                 }
             },
-            "capi:health_150.5": {
-                "add": {
-                    "component_groups": ["capi:health_150.5"]
-                }
-            },
             "capi:health_151": {
                 "add": {
                     "component_groups": ["capi:health_151"]
-                }
-            },
-            "capi:health_151.5": {
-                "add": {
-                    "component_groups": ["capi:health_151.5"]
                 }
             },
             "capi:health_152": {
@@ -6068,19 +4308,9 @@
                     "component_groups": ["capi:health_152"]
                 }
             },
-            "capi:health_152.5": {
-                "add": {
-                    "component_groups": ["capi:health_152.5"]
-                }
-            },
             "capi:health_153": {
                 "add": {
                     "component_groups": ["capi:health_153"]
-                }
-            },
-            "capi:health_153.5": {
-                "add": {
-                    "component_groups": ["capi:health_153.5"]
                 }
             },
             "capi:health_154": {
@@ -6088,19 +4318,9 @@
                     "component_groups": ["capi:health_154"]
                 }
             },
-            "capi:health_154.5": {
-                "add": {
-                    "component_groups": ["capi:health_154.5"]
-                }
-            },
             "capi:health_155": {
                 "add": {
                     "component_groups": ["capi:health_155"]
-                }
-            },
-            "capi:health_155.5": {
-                "add": {
-                    "component_groups": ["capi:health_155.5"]
                 }
             },
             "capi:health_156": {
@@ -6108,19 +4328,9 @@
                     "component_groups": ["capi:health_156"]
                 }
             },
-            "capi:health_156.5": {
-                "add": {
-                    "component_groups": ["capi:health_156.5"]
-                }
-            },
             "capi:health_157": {
                 "add": {
                     "component_groups": ["capi:health_157"]
-                }
-            },
-            "capi:health_157.5": {
-                "add": {
-                    "component_groups": ["capi:health_157.5"]
                 }
             },
             "capi:health_158": {
@@ -6128,19 +4338,9 @@
                     "component_groups": ["capi:health_158"]
                 }
             },
-            "capi:health_158.5": {
-                "add": {
-                    "component_groups": ["capi:health_158.5"]
-                }
-            },
             "capi:health_159": {
                 "add": {
                     "component_groups": ["capi:health_159"]
-                }
-            },
-            "capi:health_159.5": {
-                "add": {
-                    "component_groups": ["capi:health_159.5"]
                 }
             },
             "capi:health_160": {
@@ -6148,19 +4348,9 @@
                     "component_groups": ["capi:health_160"]
                 }
             },
-            "capi:health_160.5": {
-                "add": {
-                    "component_groups": ["capi:health_160.5"]
-                }
-            },
             "capi:health_161": {
                 "add": {
                     "component_groups": ["capi:health_161"]
-                }
-            },
-            "capi:health_161.5": {
-                "add": {
-                    "component_groups": ["capi:health_161.5"]
                 }
             },
             "capi:health_162": {
@@ -6168,19 +4358,9 @@
                     "component_groups": ["capi:health_162"]
                 }
             },
-            "capi:health_162.5": {
-                "add": {
-                    "component_groups": ["capi:health_162.5"]
-                }
-            },
             "capi:health_163": {
                 "add": {
                     "component_groups": ["capi:health_163"]
-                }
-            },
-            "capi:health_163.5": {
-                "add": {
-                    "component_groups": ["capi:health_163.5"]
                 }
             },
             "capi:health_164": {
@@ -6188,19 +4368,9 @@
                     "component_groups": ["capi:health_164"]
                 }
             },
-            "capi:health_164.5": {
-                "add": {
-                    "component_groups": ["capi:health_164.5"]
-                }
-            },
             "capi:health_165": {
                 "add": {
                     "component_groups": ["capi:health_165"]
-                }
-            },
-            "capi:health_165.5": {
-                "add": {
-                    "component_groups": ["capi:health_165.5"]
                 }
             },
             "capi:health_166": {
@@ -6208,19 +4378,9 @@
                     "component_groups": ["capi:health_166"]
                 }
             },
-            "capi:health_166.5": {
-                "add": {
-                    "component_groups": ["capi:health_166.5"]
-                }
-            },
             "capi:health_167": {
                 "add": {
                     "component_groups": ["capi:health_167"]
-                }
-            },
-            "capi:health_167.5": {
-                "add": {
-                    "component_groups": ["capi:health_167.5"]
                 }
             },
             "capi:health_168": {
@@ -6228,19 +4388,9 @@
                     "component_groups": ["capi:health_168"]
                 }
             },
-            "capi:health_168.5": {
-                "add": {
-                    "component_groups": ["capi:health_168.5"]
-                }
-            },
             "capi:health_169": {
                 "add": {
                     "component_groups": ["capi:health_169"]
-                }
-            },
-            "capi:health_169.5": {
-                "add": {
-                    "component_groups": ["capi:health_169.5"]
                 }
             },
             "capi:health_170": {
@@ -6248,19 +4398,9 @@
                     "component_groups": ["capi:health_170"]
                 }
             },
-            "capi:health_170.5": {
-                "add": {
-                    "component_groups": ["capi:health_170.5"]
-                }
-            },
             "capi:health_171": {
                 "add": {
                     "component_groups": ["capi:health_171"]
-                }
-            },
-            "capi:health_171.5": {
-                "add": {
-                    "component_groups": ["capi:health_171.5"]
                 }
             },
             "capi:health_172": {
@@ -6268,19 +4408,9 @@
                     "component_groups": ["capi:health_172"]
                 }
             },
-            "capi:health_172.5": {
-                "add": {
-                    "component_groups": ["capi:health_172.5"]
-                }
-            },
             "capi:health_173": {
                 "add": {
                     "component_groups": ["capi:health_173"]
-                }
-            },
-            "capi:health_173.5": {
-                "add": {
-                    "component_groups": ["capi:health_173.5"]
                 }
             },
             "capi:health_174": {
@@ -6288,19 +4418,9 @@
                     "component_groups": ["capi:health_174"]
                 }
             },
-            "capi:health_174.5": {
-                "add": {
-                    "component_groups": ["capi:health_174.5"]
-                }
-            },
             "capi:health_175": {
                 "add": {
                     "component_groups": ["capi:health_175"]
-                }
-            },
-            "capi:health_175.5": {
-                "add": {
-                    "component_groups": ["capi:health_175.5"]
                 }
             },
             "capi:health_176": {
@@ -6308,19 +4428,9 @@
                     "component_groups": ["capi:health_176"]
                 }
             },
-            "capi:health_176.5": {
-                "add": {
-                    "component_groups": ["capi:health_176.5"]
-                }
-            },
             "capi:health_177": {
                 "add": {
                     "component_groups": ["capi:health_177"]
-                }
-            },
-            "capi:health_177.5": {
-                "add": {
-                    "component_groups": ["capi:health_177.5"]
                 }
             },
             "capi:health_178": {
@@ -6328,19 +4438,9 @@
                     "component_groups": ["capi:health_178"]
                 }
             },
-            "capi:health_178.5": {
-                "add": {
-                    "component_groups": ["capi:health_178.5"]
-                }
-            },
             "capi:health_179": {
                 "add": {
                     "component_groups": ["capi:health_179"]
-                }
-            },
-            "capi:health_179.5": {
-                "add": {
-                    "component_groups": ["capi:health_179.5"]
                 }
             },
             "capi:health_180": {
@@ -6348,19 +4448,9 @@
                     "component_groups": ["capi:health_180"]
                 }
             },
-            "capi:health_180.5": {
-                "add": {
-                    "component_groups": ["capi:health_180.5"]
-                }
-            },
             "capi:health_181": {
                 "add": {
                     "component_groups": ["capi:health_181"]
-                }
-            },
-            "capi:health_181.5": {
-                "add": {
-                    "component_groups": ["capi:health_181.5"]
                 }
             },
             "capi:health_182": {
@@ -6368,19 +4458,9 @@
                     "component_groups": ["capi:health_182"]
                 }
             },
-            "capi:health_182.5": {
-                "add": {
-                    "component_groups": ["capi:health_182.5"]
-                }
-            },
             "capi:health_183": {
                 "add": {
                     "component_groups": ["capi:health_183"]
-                }
-            },
-            "capi:health_183.5": {
-                "add": {
-                    "component_groups": ["capi:health_183.5"]
                 }
             },
             "capi:health_184": {
@@ -6388,19 +4468,9 @@
                     "component_groups": ["capi:health_184"]
                 }
             },
-            "capi:health_184.5": {
-                "add": {
-                    "component_groups": ["capi:health_184.5"]
-                }
-            },
             "capi:health_185": {
                 "add": {
                     "component_groups": ["capi:health_185"]
-                }
-            },
-            "capi:health_185.5": {
-                "add": {
-                    "component_groups": ["capi:health_185.5"]
                 }
             },
             "capi:health_186": {
@@ -6408,19 +4478,9 @@
                     "component_groups": ["capi:health_186"]
                 }
             },
-            "capi:health_186.5": {
-                "add": {
-                    "component_groups": ["capi:health_186.5"]
-                }
-            },
             "capi:health_187": {
                 "add": {
                     "component_groups": ["capi:health_187"]
-                }
-            },
-            "capi:health_187.5": {
-                "add": {
-                    "component_groups": ["capi:health_187.5"]
                 }
             },
             "capi:health_188": {
@@ -6428,19 +4488,9 @@
                     "component_groups": ["capi:health_188"]
                 }
             },
-            "capi:health_188.5": {
-                "add": {
-                    "component_groups": ["capi:health_188.5"]
-                }
-            },
             "capi:health_189": {
                 "add": {
                     "component_groups": ["capi:health_189"]
-                }
-            },
-            "capi:health_189.5": {
-                "add": {
-                    "component_groups": ["capi:health_189.5"]
                 }
             },
             "capi:health_190": {
@@ -6448,19 +4498,9 @@
                     "component_groups": ["capi:health_190"]
                 }
             },
-            "capi:health_190.5": {
-                "add": {
-                    "component_groups": ["capi:health_190.5"]
-                }
-            },
             "capi:health_191": {
                 "add": {
                     "component_groups": ["capi:health_191"]
-                }
-            },
-            "capi:health_191.5": {
-                "add": {
-                    "component_groups": ["capi:health_191.5"]
                 }
             },
             "capi:health_192": {
@@ -6468,19 +4508,9 @@
                     "component_groups": ["capi:health_192"]
                 }
             },
-            "capi:health_192.5": {
-                "add": {
-                    "component_groups": ["capi:health_192.5"]
-                }
-            },
             "capi:health_193": {
                 "add": {
                     "component_groups": ["capi:health_193"]
-                }
-            },
-            "capi:health_193.5": {
-                "add": {
-                    "component_groups": ["capi:health_193.5"]
                 }
             },
             "capi:health_194": {
@@ -6488,19 +4518,9 @@
                     "component_groups": ["capi:health_194"]
                 }
             },
-            "capi:health_194.5": {
-                "add": {
-                    "component_groups": ["capi:health_194.5"]
-                }
-            },
             "capi:health_195": {
                 "add": {
                     "component_groups": ["capi:health_195"]
-                }
-            },
-            "capi:health_195.5": {
-                "add": {
-                    "component_groups": ["capi:health_195.5"]
                 }
             },
             "capi:health_196": {
@@ -6508,19 +4528,9 @@
                     "component_groups": ["capi:health_196"]
                 }
             },
-            "capi:health_196.5": {
-                "add": {
-                    "component_groups": ["capi:health_196.5"]
-                }
-            },
             "capi:health_197": {
                 "add": {
                     "component_groups": ["capi:health_197"]
-                }
-            },
-            "capi:health_197.5": {
-                "add": {
-                    "component_groups": ["capi:health_197.5"]
                 }
             },
             "capi:health_198": {
@@ -6528,19 +4538,9 @@
                     "component_groups": ["capi:health_198"]
                 }
             },
-            "capi:health_198.5": {
-                "add": {
-                    "component_groups": ["capi:health_198.5"]
-                }
-            },
             "capi:health_199": {
                 "add": {
                     "component_groups": ["capi:health_199"]
-                }
-            },
-            "capi:health_199.5": {
-                "add": {
-                    "component_groups": ["capi:health_199.5"]
                 }
             },
             "capi:health_200": {
