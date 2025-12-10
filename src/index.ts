@@ -90,7 +90,7 @@ for (let i = 0.1; i <= 4.0; i += 0.1) {
     };
 }
 
-for (let i = 0.5; i <= 200; i += 0.5) {
+for (let i = 1; i <= 200; i += 1) {
     i = Math.round(i * 10) / 10; // Round to 1 decimal place
     componentGroups[`capi:health_${i}`] = {
         "minecraft:health": {

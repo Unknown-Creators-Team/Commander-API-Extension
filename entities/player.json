@@ -1,7 +1,7 @@
 /**
- * Warning: This file is auto-generated. Do not edit it directly.
- * Instead, edit the default/player.json file and run the script again.
- */
+* Warning: This file is auto-generated. Do not edit it directly.
+* Instead, edit the default/player.json file and run the script again.
+*/
 {
     "format_version": "1.21.0",
     "minecraft:entity": {
@@ -14,7 +14,10 @@
                 "capi:team": {
                     "type": "int",
                     "default": 0,
-                    "range": [0, 40]
+                    "range": [
+                        0,
+                        40
+                    ]
                 }
             }
         },
@@ -31,7 +34,10 @@
                     "remove_effects": "bad_omen"
                 },
                 "minecraft:timer": {
-                    "time": [0, 0],
+                    "time": [
+                        0,
+                        0
+                    ],
                     "looping": false,
                     "time_down_event": {
                         "event": "minecraft:clear_add_raid_omen",
@@ -2311,7 +2317,9 @@
                 "on_death": "Math.Min(query.player_level * 7, 100)"
             },
             "minecraft:type_family": {
-                "family": ["player"]
+                "family": [
+                    "player"
+                ]
             },
             "minecraft:is_hidden_when_invisible": {},
             "minecraft:loot": {
@@ -2391,17 +2399,27 @@
             },
             "minecraft:rideable": {
                 "seat_count": 2,
-                "family_types": ["parrot_tame"],
+                "family_types": [
+                    "parrot_tame"
+                ],
                 "pull_in_entities": true,
                 "seats": [
                     {
-                        "position": [0.4, -0.2, -0.1],
+                        "position": [
+                            0.4,
+                            -0.2,
+                            -0.1
+                        ],
                         "min_rider_count": 0,
                         "max_rider_count": 0,
                         "lock_rider_rotation": 0
                     },
                     {
-                        "position": [-0.4, -0.2, -0.1],
+                        "position": [
+                            -0.4,
+                            -0.2,
+                            -0.1
+                        ],
                         "min_rider_count": 1,
                         "max_rider_count": 2,
                         "lock_rider_rotation": 0
@@ -3277,2280 +3295,3192 @@
         "events": {
             "minecraft:gain_raid_omen": {
                 "add": {
-                    "component_groups": ["minecraft:add_raid_omen"]
+                    "component_groups": [
+                        "minecraft:add_raid_omen"
+                    ]
                 }
             },
             "minecraft:clear_add_raid_omen": {
                 "remove": {
-                    "component_groups": ["minecraft:add_raid_omen"]
+                    "component_groups": [
+                        "minecraft:add_raid_omen"
+                    ]
                 },
                 "add": {
-                    "component_groups": ["minecraft:clear_raid_omen_spell_effect"]
+                    "component_groups": [
+                        "minecraft:clear_raid_omen_spell_effect"
+                    ]
                 }
             },
             "minecraft:trigger_raid": {
                 "add": {
-                    "component_groups": ["minecraft:raid_trigger"]
+                    "component_groups": [
+                        "minecraft:raid_trigger"
+                    ]
                 }
             },
             "minecraft:remove_raid_trigger": {
                 "remove": {
-                    "component_groups": ["minecraft:raid_trigger"]
+                    "component_groups": [
+                        "minecraft:raid_trigger"
+                    ]
                 }
             },
             "capi:size_0": {
                 "add": {
-                    "component_groups": ["capi:size_0"]
+                    "component_groups": [
+                        "capi:size_0"
+                    ]
                 }
             },
             "capi:size_0.01": {
                 "add": {
-                    "component_groups": ["capi:size_0.01"]
+                    "component_groups": [
+                        "capi:size_0.01"
+                    ]
                 }
             },
             "capi:size_0.02": {
                 "add": {
-                    "component_groups": ["capi:size_0.02"]
+                    "component_groups": [
+                        "capi:size_0.02"
+                    ]
                 }
             },
             "capi:size_0.03": {
                 "add": {
-                    "component_groups": ["capi:size_0.03"]
+                    "component_groups": [
+                        "capi:size_0.03"
+                    ]
                 }
             },
             "capi:size_0.04": {
                 "add": {
-                    "component_groups": ["capi:size_0.04"]
+                    "component_groups": [
+                        "capi:size_0.04"
+                    ]
                 }
             },
             "capi:size_0.05": {
                 "add": {
-                    "component_groups": ["capi:size_0.05"]
+                    "component_groups": [
+                        "capi:size_0.05"
+                    ]
                 }
             },
             "capi:size_0.06": {
                 "add": {
-                    "component_groups": ["capi:size_0.06"]
+                    "component_groups": [
+                        "capi:size_0.06"
+                    ]
                 }
             },
             "capi:size_0.07": {
                 "add": {
-                    "component_groups": ["capi:size_0.07"]
+                    "component_groups": [
+                        "capi:size_0.07"
+                    ]
                 }
             },
             "capi:size_0.08": {
                 "add": {
-                    "component_groups": ["capi:size_0.08"]
+                    "component_groups": [
+                        "capi:size_0.08"
+                    ]
                 }
             },
             "capi:size_0.09": {
                 "add": {
-                    "component_groups": ["capi:size_0.09"]
+                    "component_groups": [
+                        "capi:size_0.09"
+                    ]
                 }
             },
             "capi:size_0.1": {
                 "add": {
-                    "component_groups": ["capi:size_0.1"]
+                    "component_groups": [
+                        "capi:size_0.1"
+                    ]
                 }
             },
             "capi:size_0.2": {
                 "add": {
-                    "component_groups": ["capi:size_0.2"]
+                    "component_groups": [
+                        "capi:size_0.2"
+                    ]
                 }
             },
             "capi:size_0.3": {
                 "add": {
-                    "component_groups": ["capi:size_0.3"]
+                    "component_groups": [
+                        "capi:size_0.3"
+                    ]
                 }
             },
             "capi:size_0.4": {
                 "add": {
-                    "component_groups": ["capi:size_0.4"]
+                    "component_groups": [
+                        "capi:size_0.4"
+                    ]
                 }
             },
             "capi:size_0.5": {
                 "add": {
-                    "component_groups": ["capi:size_0.5"]
+                    "component_groups": [
+                        "capi:size_0.5"
+                    ]
                 }
             },
             "capi:size_0.6": {
                 "add": {
-                    "component_groups": ["capi:size_0.6"]
+                    "component_groups": [
+                        "capi:size_0.6"
+                    ]
                 }
             },
             "capi:size_0.7": {
                 "add": {
-                    "component_groups": ["capi:size_0.7"]
+                    "component_groups": [
+                        "capi:size_0.7"
+                    ]
                 }
             },
             "capi:size_0.8": {
                 "add": {
-                    "component_groups": ["capi:size_0.8"]
+                    "component_groups": [
+                        "capi:size_0.8"
+                    ]
                 }
             },
             "capi:size_0.9": {
                 "add": {
-                    "component_groups": ["capi:size_0.9"]
+                    "component_groups": [
+                        "capi:size_0.9"
+                    ]
                 }
             },
             "capi:size_1": {
                 "add": {
-                    "component_groups": ["capi:size_1"]
+                    "component_groups": [
+                        "capi:size_1"
+                    ]
                 }
             },
             "capi:size_1.1": {
                 "add": {
-                    "component_groups": ["capi:size_1.1"]
+                    "component_groups": [
+                        "capi:size_1.1"
+                    ]
                 }
             },
             "capi:size_1.2": {
                 "add": {
-                    "component_groups": ["capi:size_1.2"]
+                    "component_groups": [
+                        "capi:size_1.2"
+                    ]
                 }
             },
             "capi:size_1.3": {
                 "add": {
-                    "component_groups": ["capi:size_1.3"]
+                    "component_groups": [
+                        "capi:size_1.3"
+                    ]
                 }
             },
             "capi:size_1.4": {
                 "add": {
-                    "component_groups": ["capi:size_1.4"]
+                    "component_groups": [
+                        "capi:size_1.4"
+                    ]
                 }
             },
             "capi:size_1.5": {
                 "add": {
-                    "component_groups": ["capi:size_1.5"]
+                    "component_groups": [
+                        "capi:size_1.5"
+                    ]
                 }
             },
             "capi:size_1.6": {
                 "add": {
-                    "component_groups": ["capi:size_1.6"]
+                    "component_groups": [
+                        "capi:size_1.6"
+                    ]
                 }
             },
             "capi:size_1.7": {
                 "add": {
-                    "component_groups": ["capi:size_1.7"]
+                    "component_groups": [
+                        "capi:size_1.7"
+                    ]
                 }
             },
             "capi:size_1.8": {
                 "add": {
-                    "component_groups": ["capi:size_1.8"]
+                    "component_groups": [
+                        "capi:size_1.8"
+                    ]
                 }
             },
             "capi:size_1.9": {
                 "add": {
-                    "component_groups": ["capi:size_1.9"]
+                    "component_groups": [
+                        "capi:size_1.9"
+                    ]
                 }
             },
             "capi:size_2": {
                 "add": {
-                    "component_groups": ["capi:size_2"]
+                    "component_groups": [
+                        "capi:size_2"
+                    ]
                 }
             },
             "capi:size_2.1": {
                 "add": {
-                    "component_groups": ["capi:size_2.1"]
+                    "component_groups": [
+                        "capi:size_2.1"
+                    ]
                 }
             },
             "capi:size_2.2": {
                 "add": {
-                    "component_groups": ["capi:size_2.2"]
+                    "component_groups": [
+                        "capi:size_2.2"
+                    ]
                 }
             },
             "capi:size_2.3": {
                 "add": {
-                    "component_groups": ["capi:size_2.3"]
+                    "component_groups": [
+                        "capi:size_2.3"
+                    ]
                 }
             },
             "capi:size_2.4": {
                 "add": {
-                    "component_groups": ["capi:size_2.4"]
+                    "component_groups": [
+                        "capi:size_2.4"
+                    ]
                 }
             },
             "capi:size_2.5": {
                 "add": {
-                    "component_groups": ["capi:size_2.5"]
+                    "component_groups": [
+                        "capi:size_2.5"
+                    ]
                 }
             },
             "capi:size_2.6": {
                 "add": {
-                    "component_groups": ["capi:size_2.6"]
+                    "component_groups": [
+                        "capi:size_2.6"
+                    ]
                 }
             },
             "capi:size_2.7": {
                 "add": {
-                    "component_groups": ["capi:size_2.7"]
+                    "component_groups": [
+                        "capi:size_2.7"
+                    ]
                 }
             },
             "capi:size_2.8": {
                 "add": {
-                    "component_groups": ["capi:size_2.8"]
+                    "component_groups": [
+                        "capi:size_2.8"
+                    ]
                 }
             },
             "capi:size_2.9": {
                 "add": {
-                    "component_groups": ["capi:size_2.9"]
+                    "component_groups": [
+                        "capi:size_2.9"
+                    ]
                 }
             },
             "capi:size_3": {
                 "add": {
-                    "component_groups": ["capi:size_3"]
+                    "component_groups": [
+                        "capi:size_3"
+                    ]
                 }
             },
             "capi:size_3.1": {
                 "add": {
-                    "component_groups": ["capi:size_3.1"]
+                    "component_groups": [
+                        "capi:size_3.1"
+                    ]
                 }
             },
             "capi:size_3.2": {
                 "add": {
-                    "component_groups": ["capi:size_3.2"]
+                    "component_groups": [
+                        "capi:size_3.2"
+                    ]
                 }
             },
             "capi:size_3.3": {
                 "add": {
-                    "component_groups": ["capi:size_3.3"]
+                    "component_groups": [
+                        "capi:size_3.3"
+                    ]
                 }
             },
             "capi:size_3.4": {
                 "add": {
-                    "component_groups": ["capi:size_3.4"]
+                    "component_groups": [
+                        "capi:size_3.4"
+                    ]
                 }
             },
             "capi:size_3.5": {
                 "add": {
-                    "component_groups": ["capi:size_3.5"]
+                    "component_groups": [
+                        "capi:size_3.5"
+                    ]
                 }
             },
             "capi:size_3.6": {
                 "add": {
-                    "component_groups": ["capi:size_3.6"]
+                    "component_groups": [
+                        "capi:size_3.6"
+                    ]
                 }
             },
             "capi:size_3.7": {
                 "add": {
-                    "component_groups": ["capi:size_3.7"]
+                    "component_groups": [
+                        "capi:size_3.7"
+                    ]
                 }
             },
             "capi:size_3.8": {
                 "add": {
-                    "component_groups": ["capi:size_3.8"]
+                    "component_groups": [
+                        "capi:size_3.8"
+                    ]
                 }
             },
             "capi:size_3.9": {
                 "add": {
-                    "component_groups": ["capi:size_3.9"]
+                    "component_groups": [
+                        "capi:size_3.9"
+                    ]
                 }
             },
             "capi:size_4": {
                 "add": {
-                    "component_groups": ["capi:size_4"]
+                    "component_groups": [
+                        "capi:size_4"
+                    ]
                 }
             },
             "capi:health_1": {
                 "add": {
-                    "component_groups": ["capi:health_1"]
+                    "component_groups": [
+                        "capi:health_1"
+                    ]
                 }
             },
             "capi:health_2": {
                 "add": {
-                    "component_groups": ["capi:health_2"]
+                    "component_groups": [
+                        "capi:health_2"
+                    ]
                 }
             },
             "capi:health_3": {
                 "add": {
-                    "component_groups": ["capi:health_3"]
+                    "component_groups": [
+                        "capi:health_3"
+                    ]
                 }
             },
             "capi:health_4": {
                 "add": {
-                    "component_groups": ["capi:health_4"]
+                    "component_groups": [
+                        "capi:health_4"
+                    ]
                 }
             },
             "capi:health_5": {
                 "add": {
-                    "component_groups": ["capi:health_5"]
+                    "component_groups": [
+                        "capi:health_5"
+                    ]
                 }
             },
             "capi:health_6": {
                 "add": {
-                    "component_groups": ["capi:health_6"]
+                    "component_groups": [
+                        "capi:health_6"
+                    ]
                 }
             },
             "capi:health_7": {
                 "add": {
-                    "component_groups": ["capi:health_7"]
+                    "component_groups": [
+                        "capi:health_7"
+                    ]
                 }
             },
             "capi:health_8": {
                 "add": {
-                    "component_groups": ["capi:health_8"]
+                    "component_groups": [
+                        "capi:health_8"
+                    ]
                 }
             },
             "capi:health_9": {
                 "add": {
-                    "component_groups": ["capi:health_9"]
+                    "component_groups": [
+                        "capi:health_9"
+                    ]
                 }
             },
             "capi:health_10": {
                 "add": {
-                    "component_groups": ["capi:health_10"]
+                    "component_groups": [
+                        "capi:health_10"
+                    ]
                 }
             },
             "capi:health_11": {
                 "add": {
-                    "component_groups": ["capi:health_11"]
+                    "component_groups": [
+                        "capi:health_11"
+                    ]
                 }
             },
             "capi:health_12": {
                 "add": {
-                    "component_groups": ["capi:health_12"]
+                    "component_groups": [
+                        "capi:health_12"
+                    ]
                 }
             },
             "capi:health_13": {
                 "add": {
-                    "component_groups": ["capi:health_13"]
+                    "component_groups": [
+                        "capi:health_13"
+                    ]
                 }
             },
             "capi:health_14": {
                 "add": {
-                    "component_groups": ["capi:health_14"]
+                    "component_groups": [
+                        "capi:health_14"
+                    ]
                 }
             },
             "capi:health_15": {
                 "add": {
-                    "component_groups": ["capi:health_15"]
+                    "component_groups": [
+                        "capi:health_15"
+                    ]
                 }
             },
             "capi:health_16": {
                 "add": {
-                    "component_groups": ["capi:health_16"]
+                    "component_groups": [
+                        "capi:health_16"
+                    ]
                 }
             },
             "capi:health_17": {
                 "add": {
-                    "component_groups": ["capi:health_17"]
+                    "component_groups": [
+                        "capi:health_17"
+                    ]
                 }
             },
             "capi:health_18": {
                 "add": {
-                    "component_groups": ["capi:health_18"]
+                    "component_groups": [
+                        "capi:health_18"
+                    ]
                 }
             },
             "capi:health_19": {
                 "add": {
-                    "component_groups": ["capi:health_19"]
+                    "component_groups": [
+                        "capi:health_19"
+                    ]
                 }
             },
             "capi:health_20": {
                 "add": {
-                    "component_groups": ["capi:health_20"]
+                    "component_groups": [
+                        "capi:health_20"
+                    ]
                 }
             },
             "capi:health_21": {
                 "add": {
-                    "component_groups": ["capi:health_21"]
+                    "component_groups": [
+                        "capi:health_21"
+                    ]
                 }
             },
             "capi:health_22": {
                 "add": {
-                    "component_groups": ["capi:health_22"]
+                    "component_groups": [
+                        "capi:health_22"
+                    ]
                 }
             },
             "capi:health_23": {
                 "add": {
-                    "component_groups": ["capi:health_23"]
+                    "component_groups": [
+                        "capi:health_23"
+                    ]
                 }
             },
             "capi:health_24": {
                 "add": {
-                    "component_groups": ["capi:health_24"]
+                    "component_groups": [
+                        "capi:health_24"
+                    ]
                 }
             },
             "capi:health_25": {
                 "add": {
-                    "component_groups": ["capi:health_25"]
+                    "component_groups": [
+                        "capi:health_25"
+                    ]
                 }
             },
             "capi:health_26": {
                 "add": {
-                    "component_groups": ["capi:health_26"]
+                    "component_groups": [
+                        "capi:health_26"
+                    ]
                 }
             },
             "capi:health_27": {
                 "add": {
-                    "component_groups": ["capi:health_27"]
+                    "component_groups": [
+                        "capi:health_27"
+                    ]
                 }
             },
             "capi:health_28": {
                 "add": {
-                    "component_groups": ["capi:health_28"]
+                    "component_groups": [
+                        "capi:health_28"
+                    ]
                 }
             },
             "capi:health_29": {
                 "add": {
-                    "component_groups": ["capi:health_29"]
+                    "component_groups": [
+                        "capi:health_29"
+                    ]
                 }
             },
             "capi:health_30": {
                 "add": {
-                    "component_groups": ["capi:health_30"]
+                    "component_groups": [
+                        "capi:health_30"
+                    ]
                 }
             },
             "capi:health_31": {
                 "add": {
-                    "component_groups": ["capi:health_31"]
+                    "component_groups": [
+                        "capi:health_31"
+                    ]
                 }
             },
             "capi:health_32": {
                 "add": {
-                    "component_groups": ["capi:health_32"]
+                    "component_groups": [
+                        "capi:health_32"
+                    ]
                 }
             },
             "capi:health_33": {
                 "add": {
-                    "component_groups": ["capi:health_33"]
+                    "component_groups": [
+                        "capi:health_33"
+                    ]
                 }
             },
             "capi:health_34": {
                 "add": {
-                    "component_groups": ["capi:health_34"]
+                    "component_groups": [
+                        "capi:health_34"
+                    ]
                 }
             },
             "capi:health_35": {
                 "add": {
-                    "component_groups": ["capi:health_35"]
+                    "component_groups": [
+                        "capi:health_35"
+                    ]
                 }
             },
             "capi:health_36": {
                 "add": {
-                    "component_groups": ["capi:health_36"]
+                    "component_groups": [
+                        "capi:health_36"
+                    ]
                 }
             },
             "capi:health_37": {
                 "add": {
-                    "component_groups": ["capi:health_37"]
+                    "component_groups": [
+                        "capi:health_37"
+                    ]
                 }
             },
             "capi:health_38": {
                 "add": {
-                    "component_groups": ["capi:health_38"]
+                    "component_groups": [
+                        "capi:health_38"
+                    ]
                 }
             },
             "capi:health_39": {
                 "add": {
-                    "component_groups": ["capi:health_39"]
+                    "component_groups": [
+                        "capi:health_39"
+                    ]
                 }
             },
             "capi:health_40": {
                 "add": {
-                    "component_groups": ["capi:health_40"]
+                    "component_groups": [
+                        "capi:health_40"
+                    ]
                 }
             },
             "capi:health_41": {
                 "add": {
-                    "component_groups": ["capi:health_41"]
+                    "component_groups": [
+                        "capi:health_41"
+                    ]
                 }
             },
             "capi:health_42": {
                 "add": {
-                    "component_groups": ["capi:health_42"]
+                    "component_groups": [
+                        "capi:health_42"
+                    ]
                 }
             },
             "capi:health_43": {
                 "add": {
-                    "component_groups": ["capi:health_43"]
+                    "component_groups": [
+                        "capi:health_43"
+                    ]
                 }
             },
             "capi:health_44": {
                 "add": {
-                    "component_groups": ["capi:health_44"]
+                    "component_groups": [
+                        "capi:health_44"
+                    ]
                 }
             },
             "capi:health_45": {
                 "add": {
-                    "component_groups": ["capi:health_45"]
+                    "component_groups": [
+                        "capi:health_45"
+                    ]
                 }
             },
             "capi:health_46": {
                 "add": {
-                    "component_groups": ["capi:health_46"]
+                    "component_groups": [
+                        "capi:health_46"
+                    ]
                 }
             },
             "capi:health_47": {
                 "add": {
-                    "component_groups": ["capi:health_47"]
+                    "component_groups": [
+                        "capi:health_47"
+                    ]
                 }
             },
             "capi:health_48": {
                 "add": {
-                    "component_groups": ["capi:health_48"]
+                    "component_groups": [
+                        "capi:health_48"
+                    ]
                 }
             },
             "capi:health_49": {
                 "add": {
-                    "component_groups": ["capi:health_49"]
+                    "component_groups": [
+                        "capi:health_49"
+                    ]
                 }
             },
             "capi:health_50": {
                 "add": {
-                    "component_groups": ["capi:health_50"]
+                    "component_groups": [
+                        "capi:health_50"
+                    ]
                 }
             },
             "capi:health_51": {
                 "add": {
-                    "component_groups": ["capi:health_51"]
+                    "component_groups": [
+                        "capi:health_51"
+                    ]
                 }
             },
             "capi:health_52": {
                 "add": {
-                    "component_groups": ["capi:health_52"]
+                    "component_groups": [
+                        "capi:health_52"
+                    ]
                 }
             },
             "capi:health_53": {
                 "add": {
-                    "component_groups": ["capi:health_53"]
+                    "component_groups": [
+                        "capi:health_53"
+                    ]
                 }
             },
             "capi:health_54": {
                 "add": {
-                    "component_groups": ["capi:health_54"]
+                    "component_groups": [
+                        "capi:health_54"
+                    ]
                 }
             },
             "capi:health_55": {
                 "add": {
-                    "component_groups": ["capi:health_55"]
+                    "component_groups": [
+                        "capi:health_55"
+                    ]
                 }
             },
             "capi:health_56": {
                 "add": {
-                    "component_groups": ["capi:health_56"]
+                    "component_groups": [
+                        "capi:health_56"
+                    ]
                 }
             },
             "capi:health_57": {
                 "add": {
-                    "component_groups": ["capi:health_57"]
+                    "component_groups": [
+                        "capi:health_57"
+                    ]
                 }
             },
             "capi:health_58": {
                 "add": {
-                    "component_groups": ["capi:health_58"]
+                    "component_groups": [
+                        "capi:health_58"
+                    ]
                 }
             },
             "capi:health_59": {
                 "add": {
-                    "component_groups": ["capi:health_59"]
+                    "component_groups": [
+                        "capi:health_59"
+                    ]
                 }
             },
             "capi:health_60": {
                 "add": {
-                    "component_groups": ["capi:health_60"]
+                    "component_groups": [
+                        "capi:health_60"
+                    ]
                 }
             },
             "capi:health_61": {
                 "add": {
-                    "component_groups": ["capi:health_61"]
+                    "component_groups": [
+                        "capi:health_61"
+                    ]
                 }
             },
             "capi:health_62": {
                 "add": {
-                    "component_groups": ["capi:health_62"]
+                    "component_groups": [
+                        "capi:health_62"
+                    ]
                 }
             },
             "capi:health_63": {
                 "add": {
-                    "component_groups": ["capi:health_63"]
+                    "component_groups": [
+                        "capi:health_63"
+                    ]
                 }
             },
             "capi:health_64": {
                 "add": {
-                    "component_groups": ["capi:health_64"]
+                    "component_groups": [
+                        "capi:health_64"
+                    ]
                 }
             },
             "capi:health_65": {
                 "add": {
-                    "component_groups": ["capi:health_65"]
+                    "component_groups": [
+                        "capi:health_65"
+                    ]
                 }
             },
             "capi:health_66": {
                 "add": {
-                    "component_groups": ["capi:health_66"]
+                    "component_groups": [
+                        "capi:health_66"
+                    ]
                 }
             },
             "capi:health_67": {
                 "add": {
-                    "component_groups": ["capi:health_67"]
+                    "component_groups": [
+                        "capi:health_67"
+                    ]
                 }
             },
             "capi:health_68": {
                 "add": {
-                    "component_groups": ["capi:health_68"]
+                    "component_groups": [
+                        "capi:health_68"
+                    ]
                 }
             },
             "capi:health_69": {
                 "add": {
-                    "component_groups": ["capi:health_69"]
+                    "component_groups": [
+                        "capi:health_69"
+                    ]
                 }
             },
             "capi:health_70": {
                 "add": {
-                    "component_groups": ["capi:health_70"]
+                    "component_groups": [
+                        "capi:health_70"
+                    ]
                 }
             },
             "capi:health_71": {
                 "add": {
-                    "component_groups": ["capi:health_71"]
+                    "component_groups": [
+                        "capi:health_71"
+                    ]
                 }
             },
             "capi:health_72": {
                 "add": {
-                    "component_groups": ["capi:health_72"]
+                    "component_groups": [
+                        "capi:health_72"
+                    ]
                 }
             },
             "capi:health_73": {
                 "add": {
-                    "component_groups": ["capi:health_73"]
+                    "component_groups": [
+                        "capi:health_73"
+                    ]
                 }
             },
             "capi:health_74": {
                 "add": {
-                    "component_groups": ["capi:health_74"]
+                    "component_groups": [
+                        "capi:health_74"
+                    ]
                 }
             },
             "capi:health_75": {
                 "add": {
-                    "component_groups": ["capi:health_75"]
+                    "component_groups": [
+                        "capi:health_75"
+                    ]
                 }
             },
             "capi:health_76": {
                 "add": {
-                    "component_groups": ["capi:health_76"]
+                    "component_groups": [
+                        "capi:health_76"
+                    ]
                 }
             },
             "capi:health_77": {
                 "add": {
-                    "component_groups": ["capi:health_77"]
+                    "component_groups": [
+                        "capi:health_77"
+                    ]
                 }
             },
             "capi:health_78": {
                 "add": {
-                    "component_groups": ["capi:health_78"]
+                    "component_groups": [
+                        "capi:health_78"
+                    ]
                 }
             },
             "capi:health_79": {
                 "add": {
-                    "component_groups": ["capi:health_79"]
+                    "component_groups": [
+                        "capi:health_79"
+                    ]
                 }
             },
             "capi:health_80": {
                 "add": {
-                    "component_groups": ["capi:health_80"]
+                    "component_groups": [
+                        "capi:health_80"
+                    ]
                 }
             },
             "capi:health_81": {
                 "add": {
-                    "component_groups": ["capi:health_81"]
+                    "component_groups": [
+                        "capi:health_81"
+                    ]
                 }
             },
             "capi:health_82": {
                 "add": {
-                    "component_groups": ["capi:health_82"]
+                    "component_groups": [
+                        "capi:health_82"
+                    ]
                 }
             },
             "capi:health_83": {
                 "add": {
-                    "component_groups": ["capi:health_83"]
+                    "component_groups": [
+                        "capi:health_83"
+                    ]
                 }
             },
             "capi:health_84": {
                 "add": {
-                    "component_groups": ["capi:health_84"]
+                    "component_groups": [
+                        "capi:health_84"
+                    ]
                 }
             },
             "capi:health_85": {
                 "add": {
-                    "component_groups": ["capi:health_85"]
+                    "component_groups": [
+                        "capi:health_85"
+                    ]
                 }
             },
             "capi:health_86": {
                 "add": {
-                    "component_groups": ["capi:health_86"]
+                    "component_groups": [
+                        "capi:health_86"
+                    ]
                 }
             },
             "capi:health_87": {
                 "add": {
-                    "component_groups": ["capi:health_87"]
+                    "component_groups": [
+                        "capi:health_87"
+                    ]
                 }
             },
             "capi:health_88": {
                 "add": {
-                    "component_groups": ["capi:health_88"]
+                    "component_groups": [
+                        "capi:health_88"
+                    ]
                 }
             },
             "capi:health_89": {
                 "add": {
-                    "component_groups": ["capi:health_89"]
+                    "component_groups": [
+                        "capi:health_89"
+                    ]
                 }
             },
             "capi:health_90": {
                 "add": {
-                    "component_groups": ["capi:health_90"]
+                    "component_groups": [
+                        "capi:health_90"
+                    ]
                 }
             },
             "capi:health_91": {
                 "add": {
-                    "component_groups": ["capi:health_91"]
+                    "component_groups": [
+                        "capi:health_91"
+                    ]
                 }
             },
             "capi:health_92": {
                 "add": {
-                    "component_groups": ["capi:health_92"]
+                    "component_groups": [
+                        "capi:health_92"
+                    ]
                 }
             },
             "capi:health_93": {
                 "add": {
-                    "component_groups": ["capi:health_93"]
+                    "component_groups": [
+                        "capi:health_93"
+                    ]
                 }
             },
             "capi:health_94": {
                 "add": {
-                    "component_groups": ["capi:health_94"]
+                    "component_groups": [
+                        "capi:health_94"
+                    ]
                 }
             },
             "capi:health_95": {
                 "add": {
-                    "component_groups": ["capi:health_95"]
+                    "component_groups": [
+                        "capi:health_95"
+                    ]
                 }
             },
             "capi:health_96": {
                 "add": {
-                    "component_groups": ["capi:health_96"]
+                    "component_groups": [
+                        "capi:health_96"
+                    ]
                 }
             },
             "capi:health_97": {
                 "add": {
-                    "component_groups": ["capi:health_97"]
+                    "component_groups": [
+                        "capi:health_97"
+                    ]
                 }
             },
             "capi:health_98": {
                 "add": {
-                    "component_groups": ["capi:health_98"]
+                    "component_groups": [
+                        "capi:health_98"
+                    ]
                 }
             },
             "capi:health_99": {
                 "add": {
-                    "component_groups": ["capi:health_99"]
+                    "component_groups": [
+                        "capi:health_99"
+                    ]
                 }
             },
             "capi:health_100": {
                 "add": {
-                    "component_groups": ["capi:health_100"]
+                    "component_groups": [
+                        "capi:health_100"
+                    ]
                 }
             },
             "capi:health_101": {
                 "add": {
-                    "component_groups": ["capi:health_101"]
+                    "component_groups": [
+                        "capi:health_101"
+                    ]
                 }
             },
             "capi:health_102": {
                 "add": {
-                    "component_groups": ["capi:health_102"]
+                    "component_groups": [
+                        "capi:health_102"
+                    ]
                 }
             },
             "capi:health_103": {
                 "add": {
-                    "component_groups": ["capi:health_103"]
+                    "component_groups": [
+                        "capi:health_103"
+                    ]
                 }
             },
             "capi:health_104": {
                 "add": {
-                    "component_groups": ["capi:health_104"]
+                    "component_groups": [
+                        "capi:health_104"
+                    ]
                 }
             },
             "capi:health_105": {
                 "add": {
-                    "component_groups": ["capi:health_105"]
+                    "component_groups": [
+                        "capi:health_105"
+                    ]
                 }
             },
             "capi:health_106": {
                 "add": {
-                    "component_groups": ["capi:health_106"]
+                    "component_groups": [
+                        "capi:health_106"
+                    ]
                 }
             },
             "capi:health_107": {
                 "add": {
-                    "component_groups": ["capi:health_107"]
+                    "component_groups": [
+                        "capi:health_107"
+                    ]
                 }
             },
             "capi:health_108": {
                 "add": {
-                    "component_groups": ["capi:health_108"]
+                    "component_groups": [
+                        "capi:health_108"
+                    ]
                 }
             },
             "capi:health_109": {
                 "add": {
-                    "component_groups": ["capi:health_109"]
+                    "component_groups": [
+                        "capi:health_109"
+                    ]
                 }
             },
             "capi:health_110": {
                 "add": {
-                    "component_groups": ["capi:health_110"]
+                    "component_groups": [
+                        "capi:health_110"
+                    ]
                 }
             },
             "capi:health_111": {
                 "add": {
-                    "component_groups": ["capi:health_111"]
+                    "component_groups": [
+                        "capi:health_111"
+                    ]
                 }
             },
             "capi:health_112": {
                 "add": {
-                    "component_groups": ["capi:health_112"]
+                    "component_groups": [
+                        "capi:health_112"
+                    ]
                 }
             },
             "capi:health_113": {
                 "add": {
-                    "component_groups": ["capi:health_113"]
+                    "component_groups": [
+                        "capi:health_113"
+                    ]
                 }
             },
             "capi:health_114": {
                 "add": {
-                    "component_groups": ["capi:health_114"]
+                    "component_groups": [
+                        "capi:health_114"
+                    ]
                 }
             },
             "capi:health_115": {
                 "add": {
-                    "component_groups": ["capi:health_115"]
+                    "component_groups": [
+                        "capi:health_115"
+                    ]
                 }
             },
             "capi:health_116": {
                 "add": {
-                    "component_groups": ["capi:health_116"]
+                    "component_groups": [
+                        "capi:health_116"
+                    ]
                 }
             },
             "capi:health_117": {
                 "add": {
-                    "component_groups": ["capi:health_117"]
+                    "component_groups": [
+                        "capi:health_117"
+                    ]
                 }
             },
             "capi:health_118": {
                 "add": {
-                    "component_groups": ["capi:health_118"]
+                    "component_groups": [
+                        "capi:health_118"
+                    ]
                 }
             },
             "capi:health_119": {
                 "add": {
-                    "component_groups": ["capi:health_119"]
+                    "component_groups": [
+                        "capi:health_119"
+                    ]
                 }
             },
             "capi:health_120": {
                 "add": {
-                    "component_groups": ["capi:health_120"]
+                    "component_groups": [
+                        "capi:health_120"
+                    ]
                 }
             },
             "capi:health_121": {
                 "add": {
-                    "component_groups": ["capi:health_121"]
+                    "component_groups": [
+                        "capi:health_121"
+                    ]
                 }
             },
             "capi:health_122": {
                 "add": {
-                    "component_groups": ["capi:health_122"]
+                    "component_groups": [
+                        "capi:health_122"
+                    ]
                 }
             },
             "capi:health_123": {
                 "add": {
-                    "component_groups": ["capi:health_123"]
+                    "component_groups": [
+                        "capi:health_123"
+                    ]
                 }
             },
             "capi:health_124": {
                 "add": {
-                    "component_groups": ["capi:health_124"]
+                    "component_groups": [
+                        "capi:health_124"
+                    ]
                 }
             },
             "capi:health_125": {
                 "add": {
-                    "component_groups": ["capi:health_125"]
+                    "component_groups": [
+                        "capi:health_125"
+                    ]
                 }
             },
             "capi:health_126": {
                 "add": {
-                    "component_groups": ["capi:health_126"]
+                    "component_groups": [
+                        "capi:health_126"
+                    ]
                 }
             },
             "capi:health_127": {
                 "add": {
-                    "component_groups": ["capi:health_127"]
+                    "component_groups": [
+                        "capi:health_127"
+                    ]
                 }
             },
             "capi:health_128": {
                 "add": {
-                    "component_groups": ["capi:health_128"]
+                    "component_groups": [
+                        "capi:health_128"
+                    ]
                 }
             },
             "capi:health_129": {
                 "add": {
-                    "component_groups": ["capi:health_129"]
+                    "component_groups": [
+                        "capi:health_129"
+                    ]
                 }
             },
             "capi:health_130": {
                 "add": {
-                    "component_groups": ["capi:health_130"]
+                    "component_groups": [
+                        "capi:health_130"
+                    ]
                 }
             },
             "capi:health_131": {
                 "add": {
-                    "component_groups": ["capi:health_131"]
+                    "component_groups": [
+                        "capi:health_131"
+                    ]
                 }
             },
             "capi:health_132": {
                 "add": {
-                    "component_groups": ["capi:health_132"]
+                    "component_groups": [
+                        "capi:health_132"
+                    ]
                 }
             },
             "capi:health_133": {
                 "add": {
-                    "component_groups": ["capi:health_133"]
+                    "component_groups": [
+                        "capi:health_133"
+                    ]
                 }
             },
             "capi:health_134": {
                 "add": {
-                    "component_groups": ["capi:health_134"]
+                    "component_groups": [
+                        "capi:health_134"
+                    ]
                 }
             },
             "capi:health_135": {
                 "add": {
-                    "component_groups": ["capi:health_135"]
+                    "component_groups": [
+                        "capi:health_135"
+                    ]
                 }
             },
             "capi:health_136": {
                 "add": {
-                    "component_groups": ["capi:health_136"]
+                    "component_groups": [
+                        "capi:health_136"
+                    ]
                 }
             },
             "capi:health_137": {
                 "add": {
-                    "component_groups": ["capi:health_137"]
+                    "component_groups": [
+                        "capi:health_137"
+                    ]
                 }
             },
             "capi:health_138": {
                 "add": {
-                    "component_groups": ["capi:health_138"]
+                    "component_groups": [
+                        "capi:health_138"
+                    ]
                 }
             },
             "capi:health_139": {
                 "add": {
-                    "component_groups": ["capi:health_139"]
+                    "component_groups": [
+                        "capi:health_139"
+                    ]
                 }
             },
             "capi:health_140": {
                 "add": {
-                    "component_groups": ["capi:health_140"]
+                    "component_groups": [
+                        "capi:health_140"
+                    ]
                 }
             },
             "capi:health_141": {
                 "add": {
-                    "component_groups": ["capi:health_141"]
+                    "component_groups": [
+                        "capi:health_141"
+                    ]
                 }
             },
             "capi:health_142": {
                 "add": {
-                    "component_groups": ["capi:health_142"]
+                    "component_groups": [
+                        "capi:health_142"
+                    ]
                 }
             },
             "capi:health_143": {
                 "add": {
-                    "component_groups": ["capi:health_143"]
+                    "component_groups": [
+                        "capi:health_143"
+                    ]
                 }
             },
             "capi:health_144": {
                 "add": {
-                    "component_groups": ["capi:health_144"]
+                    "component_groups": [
+                        "capi:health_144"
+                    ]
                 }
             },
             "capi:health_145": {
                 "add": {
-                    "component_groups": ["capi:health_145"]
+                    "component_groups": [
+                        "capi:health_145"
+                    ]
                 }
             },
             "capi:health_146": {
                 "add": {
-                    "component_groups": ["capi:health_146"]
+                    "component_groups": [
+                        "capi:health_146"
+                    ]
                 }
             },
             "capi:health_147": {
                 "add": {
-                    "component_groups": ["capi:health_147"]
+                    "component_groups": [
+                        "capi:health_147"
+                    ]
                 }
             },
             "capi:health_148": {
                 "add": {
-                    "component_groups": ["capi:health_148"]
+                    "component_groups": [
+                        "capi:health_148"
+                    ]
                 }
             },
             "capi:health_149": {
                 "add": {
-                    "component_groups": ["capi:health_149"]
+                    "component_groups": [
+                        "capi:health_149"
+                    ]
                 }
             },
             "capi:health_150": {
                 "add": {
-                    "component_groups": ["capi:health_150"]
+                    "component_groups": [
+                        "capi:health_150"
+                    ]
                 }
             },
             "capi:health_151": {
                 "add": {
-                    "component_groups": ["capi:health_151"]
+                    "component_groups": [
+                        "capi:health_151"
+                    ]
                 }
             },
             "capi:health_152": {
                 "add": {
-                    "component_groups": ["capi:health_152"]
+                    "component_groups": [
+                        "capi:health_152"
+                    ]
                 }
             },
             "capi:health_153": {
                 "add": {
-                    "component_groups": ["capi:health_153"]
+                    "component_groups": [
+                        "capi:health_153"
+                    ]
                 }
             },
             "capi:health_154": {
                 "add": {
-                    "component_groups": ["capi:health_154"]
+                    "component_groups": [
+                        "capi:health_154"
+                    ]
                 }
             },
             "capi:health_155": {
                 "add": {
-                    "component_groups": ["capi:health_155"]
+                    "component_groups": [
+                        "capi:health_155"
+                    ]
                 }
             },
             "capi:health_156": {
                 "add": {
-                    "component_groups": ["capi:health_156"]
+                    "component_groups": [
+                        "capi:health_156"
+                    ]
                 }
             },
             "capi:health_157": {
                 "add": {
-                    "component_groups": ["capi:health_157"]
+                    "component_groups": [
+                        "capi:health_157"
+                    ]
                 }
             },
             "capi:health_158": {
                 "add": {
-                    "component_groups": ["capi:health_158"]
+                    "component_groups": [
+                        "capi:health_158"
+                    ]
                 }
             },
             "capi:health_159": {
                 "add": {
-                    "component_groups": ["capi:health_159"]
+                    "component_groups": [
+                        "capi:health_159"
+                    ]
                 }
             },
             "capi:health_160": {
                 "add": {
-                    "component_groups": ["capi:health_160"]
+                    "component_groups": [
+                        "capi:health_160"
+                    ]
                 }
             },
             "capi:health_161": {
                 "add": {
-                    "component_groups": ["capi:health_161"]
+                    "component_groups": [
+                        "capi:health_161"
+                    ]
                 }
             },
             "capi:health_162": {
                 "add": {
-                    "component_groups": ["capi:health_162"]
+                    "component_groups": [
+                        "capi:health_162"
+                    ]
                 }
             },
             "capi:health_163": {
                 "add": {
-                    "component_groups": ["capi:health_163"]
+                    "component_groups": [
+                        "capi:health_163"
+                    ]
                 }
             },
             "capi:health_164": {
                 "add": {
-                    "component_groups": ["capi:health_164"]
+                    "component_groups": [
+                        "capi:health_164"
+                    ]
                 }
             },
             "capi:health_165": {
                 "add": {
-                    "component_groups": ["capi:health_165"]
+                    "component_groups": [
+                        "capi:health_165"
+                    ]
                 }
             },
             "capi:health_166": {
                 "add": {
-                    "component_groups": ["capi:health_166"]
+                    "component_groups": [
+                        "capi:health_166"
+                    ]
                 }
             },
             "capi:health_167": {
                 "add": {
-                    "component_groups": ["capi:health_167"]
+                    "component_groups": [
+                        "capi:health_167"
+                    ]
                 }
             },
             "capi:health_168": {
                 "add": {
-                    "component_groups": ["capi:health_168"]
+                    "component_groups": [
+                        "capi:health_168"
+                    ]
                 }
             },
             "capi:health_169": {
                 "add": {
-                    "component_groups": ["capi:health_169"]
+                    "component_groups": [
+                        "capi:health_169"
+                    ]
                 }
             },
             "capi:health_170": {
                 "add": {
-                    "component_groups": ["capi:health_170"]
+                    "component_groups": [
+                        "capi:health_170"
+                    ]
                 }
             },
             "capi:health_171": {
                 "add": {
-                    "component_groups": ["capi:health_171"]
+                    "component_groups": [
+                        "capi:health_171"
+                    ]
                 }
             },
             "capi:health_172": {
                 "add": {
-                    "component_groups": ["capi:health_172"]
+                    "component_groups": [
+                        "capi:health_172"
+                    ]
                 }
             },
             "capi:health_173": {
                 "add": {
-                    "component_groups": ["capi:health_173"]
+                    "component_groups": [
+                        "capi:health_173"
+                    ]
                 }
             },
             "capi:health_174": {
                 "add": {
-                    "component_groups": ["capi:health_174"]
+                    "component_groups": [
+                        "capi:health_174"
+                    ]
                 }
             },
             "capi:health_175": {
                 "add": {
-                    "component_groups": ["capi:health_175"]
+                    "component_groups": [
+                        "capi:health_175"
+                    ]
                 }
             },
             "capi:health_176": {
                 "add": {
-                    "component_groups": ["capi:health_176"]
+                    "component_groups": [
+                        "capi:health_176"
+                    ]
                 }
             },
             "capi:health_177": {
                 "add": {
-                    "component_groups": ["capi:health_177"]
+                    "component_groups": [
+                        "capi:health_177"
+                    ]
                 }
             },
             "capi:health_178": {
                 "add": {
-                    "component_groups": ["capi:health_178"]
+                    "component_groups": [
+                        "capi:health_178"
+                    ]
                 }
             },
             "capi:health_179": {
                 "add": {
-                    "component_groups": ["capi:health_179"]
+                    "component_groups": [
+                        "capi:health_179"
+                    ]
                 }
             },
             "capi:health_180": {
                 "add": {
-                    "component_groups": ["capi:health_180"]
+                    "component_groups": [
+                        "capi:health_180"
+                    ]
                 }
             },
             "capi:health_181": {
                 "add": {
-                    "component_groups": ["capi:health_181"]
+                    "component_groups": [
+                        "capi:health_181"
+                    ]
                 }
             },
             "capi:health_182": {
                 "add": {
-                    "component_groups": ["capi:health_182"]
+                    "component_groups": [
+                        "capi:health_182"
+                    ]
                 }
             },
             "capi:health_183": {
                 "add": {
-                    "component_groups": ["capi:health_183"]
+                    "component_groups": [
+                        "capi:health_183"
+                    ]
                 }
             },
             "capi:health_184": {
                 "add": {
-                    "component_groups": ["capi:health_184"]
+                    "component_groups": [
+                        "capi:health_184"
+                    ]
                 }
             },
             "capi:health_185": {
                 "add": {
-                    "component_groups": ["capi:health_185"]
+                    "component_groups": [
+                        "capi:health_185"
+                    ]
                 }
             },
             "capi:health_186": {
                 "add": {
-                    "component_groups": ["capi:health_186"]
+                    "component_groups": [
+                        "capi:health_186"
+                    ]
                 }
             },
             "capi:health_187": {
                 "add": {
-                    "component_groups": ["capi:health_187"]
+                    "component_groups": [
+                        "capi:health_187"
+                    ]
                 }
             },
             "capi:health_188": {
                 "add": {
-                    "component_groups": ["capi:health_188"]
+                    "component_groups": [
+                        "capi:health_188"
+                    ]
                 }
             },
             "capi:health_189": {
                 "add": {
-                    "component_groups": ["capi:health_189"]
+                    "component_groups": [
+                        "capi:health_189"
+                    ]
                 }
             },
             "capi:health_190": {
                 "add": {
-                    "component_groups": ["capi:health_190"]
+                    "component_groups": [
+                        "capi:health_190"
+                    ]
                 }
             },
             "capi:health_191": {
                 "add": {
-                    "component_groups": ["capi:health_191"]
+                    "component_groups": [
+                        "capi:health_191"
+                    ]
                 }
             },
             "capi:health_192": {
                 "add": {
-                    "component_groups": ["capi:health_192"]
+                    "component_groups": [
+                        "capi:health_192"
+                    ]
                 }
             },
             "capi:health_193": {
                 "add": {
-                    "component_groups": ["capi:health_193"]
+                    "component_groups": [
+                        "capi:health_193"
+                    ]
                 }
             },
             "capi:health_194": {
                 "add": {
-                    "component_groups": ["capi:health_194"]
+                    "component_groups": [
+                        "capi:health_194"
+                    ]
                 }
             },
             "capi:health_195": {
                 "add": {
-                    "component_groups": ["capi:health_195"]
+                    "component_groups": [
+                        "capi:health_195"
+                    ]
                 }
             },
             "capi:health_196": {
                 "add": {
-                    "component_groups": ["capi:health_196"]
+                    "component_groups": [
+                        "capi:health_196"
+                    ]
                 }
             },
             "capi:health_197": {
                 "add": {
-                    "component_groups": ["capi:health_197"]
+                    "component_groups": [
+                        "capi:health_197"
+                    ]
                 }
             },
             "capi:health_198": {
                 "add": {
-                    "component_groups": ["capi:health_198"]
+                    "component_groups": [
+                        "capi:health_198"
+                    ]
                 }
             },
             "capi:health_199": {
                 "add": {
-                    "component_groups": ["capi:health_199"]
+                    "component_groups": [
+                        "capi:health_199"
+                    ]
                 }
             },
             "capi:health_200": {
                 "add": {
-                    "component_groups": ["capi:health_200"]
+                    "component_groups": [
+                        "capi:health_200"
+                    ]
                 }
             },
             "capi:attack_0": {
                 "add": {
-                    "component_groups": ["capi:attack_0"]
+                    "component_groups": [
+                        "capi:attack_0"
+                    ]
                 }
             },
             "capi:attack_1": {
                 "add": {
-                    "component_groups": ["capi:attack_1"]
+                    "component_groups": [
+                        "capi:attack_1"
+                    ]
                 }
             },
             "capi:attack_2": {
                 "add": {
-                    "component_groups": ["capi:attack_2"]
+                    "component_groups": [
+                        "capi:attack_2"
+                    ]
                 }
             },
             "capi:attack_3": {
                 "add": {
-                    "component_groups": ["capi:attack_3"]
+                    "component_groups": [
+                        "capi:attack_3"
+                    ]
                 }
             },
             "capi:attack_4": {
                 "add": {
-                    "component_groups": ["capi:attack_4"]
+                    "component_groups": [
+                        "capi:attack_4"
+                    ]
                 }
             },
             "capi:attack_5": {
                 "add": {
-                    "component_groups": ["capi:attack_5"]
+                    "component_groups": [
+                        "capi:attack_5"
+                    ]
                 }
             },
             "capi:attack_6": {
                 "add": {
-                    "component_groups": ["capi:attack_6"]
+                    "component_groups": [
+                        "capi:attack_6"
+                    ]
                 }
             },
             "capi:attack_7": {
                 "add": {
-                    "component_groups": ["capi:attack_7"]
+                    "component_groups": [
+                        "capi:attack_7"
+                    ]
                 }
             },
             "capi:attack_8": {
                 "add": {
-                    "component_groups": ["capi:attack_8"]
+                    "component_groups": [
+                        "capi:attack_8"
+                    ]
                 }
             },
             "capi:attack_9": {
                 "add": {
-                    "component_groups": ["capi:attack_9"]
+                    "component_groups": [
+                        "capi:attack_9"
+                    ]
                 }
             },
             "capi:attack_10": {
                 "add": {
-                    "component_groups": ["capi:attack_10"]
+                    "component_groups": [
+                        "capi:attack_10"
+                    ]
                 }
             },
             "capi:attack_11": {
                 "add": {
-                    "component_groups": ["capi:attack_11"]
+                    "component_groups": [
+                        "capi:attack_11"
+                    ]
                 }
             },
             "capi:attack_12": {
                 "add": {
-                    "component_groups": ["capi:attack_12"]
+                    "component_groups": [
+                        "capi:attack_12"
+                    ]
                 }
             },
             "capi:attack_13": {
                 "add": {
-                    "component_groups": ["capi:attack_13"]
+                    "component_groups": [
+                        "capi:attack_13"
+                    ]
                 }
             },
             "capi:attack_14": {
                 "add": {
-                    "component_groups": ["capi:attack_14"]
+                    "component_groups": [
+                        "capi:attack_14"
+                    ]
                 }
             },
             "capi:attack_15": {
                 "add": {
-                    "component_groups": ["capi:attack_15"]
+                    "component_groups": [
+                        "capi:attack_15"
+                    ]
                 }
             },
             "capi:attack_16": {
                 "add": {
-                    "component_groups": ["capi:attack_16"]
+                    "component_groups": [
+                        "capi:attack_16"
+                    ]
                 }
             },
             "capi:attack_17": {
                 "add": {
-                    "component_groups": ["capi:attack_17"]
+                    "component_groups": [
+                        "capi:attack_17"
+                    ]
                 }
             },
             "capi:attack_18": {
                 "add": {
-                    "component_groups": ["capi:attack_18"]
+                    "component_groups": [
+                        "capi:attack_18"
+                    ]
                 }
             },
             "capi:attack_19": {
                 "add": {
-                    "component_groups": ["capi:attack_19"]
+                    "component_groups": [
+                        "capi:attack_19"
+                    ]
                 }
             },
             "capi:attack_20": {
                 "add": {
-                    "component_groups": ["capi:attack_20"]
+                    "component_groups": [
+                        "capi:attack_20"
+                    ]
                 }
             },
             "capi:attack_21": {
                 "add": {
-                    "component_groups": ["capi:attack_21"]
+                    "component_groups": [
+                        "capi:attack_21"
+                    ]
                 }
             },
             "capi:attack_22": {
                 "add": {
-                    "component_groups": ["capi:attack_22"]
+                    "component_groups": [
+                        "capi:attack_22"
+                    ]
                 }
             },
             "capi:attack_23": {
                 "add": {
-                    "component_groups": ["capi:attack_23"]
+                    "component_groups": [
+                        "capi:attack_23"
+                    ]
                 }
             },
             "capi:attack_24": {
                 "add": {
-                    "component_groups": ["capi:attack_24"]
+                    "component_groups": [
+                        "capi:attack_24"
+                    ]
                 }
             },
             "capi:attack_25": {
                 "add": {
-                    "component_groups": ["capi:attack_25"]
+                    "component_groups": [
+                        "capi:attack_25"
+                    ]
                 }
             },
             "capi:attack_26": {
                 "add": {
-                    "component_groups": ["capi:attack_26"]
+                    "component_groups": [
+                        "capi:attack_26"
+                    ]
                 }
             },
             "capi:attack_27": {
                 "add": {
-                    "component_groups": ["capi:attack_27"]
+                    "component_groups": [
+                        "capi:attack_27"
+                    ]
                 }
             },
             "capi:attack_28": {
                 "add": {
-                    "component_groups": ["capi:attack_28"]
+                    "component_groups": [
+                        "capi:attack_28"
+                    ]
                 }
             },
             "capi:attack_29": {
                 "add": {
-                    "component_groups": ["capi:attack_29"]
+                    "component_groups": [
+                        "capi:attack_29"
+                    ]
                 }
             },
             "capi:attack_30": {
                 "add": {
-                    "component_groups": ["capi:attack_30"]
+                    "component_groups": [
+                        "capi:attack_30"
+                    ]
                 }
             },
             "capi:attack_31": {
                 "add": {
-                    "component_groups": ["capi:attack_31"]
+                    "component_groups": [
+                        "capi:attack_31"
+                    ]
                 }
             },
             "capi:attack_32": {
                 "add": {
-                    "component_groups": ["capi:attack_32"]
+                    "component_groups": [
+                        "capi:attack_32"
+                    ]
                 }
             },
             "capi:attack_33": {
                 "add": {
-                    "component_groups": ["capi:attack_33"]
+                    "component_groups": [
+                        "capi:attack_33"
+                    ]
                 }
             },
             "capi:attack_34": {
                 "add": {
-                    "component_groups": ["capi:attack_34"]
+                    "component_groups": [
+                        "capi:attack_34"
+                    ]
                 }
             },
             "capi:attack_35": {
                 "add": {
-                    "component_groups": ["capi:attack_35"]
+                    "component_groups": [
+                        "capi:attack_35"
+                    ]
                 }
             },
             "capi:attack_36": {
                 "add": {
-                    "component_groups": ["capi:attack_36"]
+                    "component_groups": [
+                        "capi:attack_36"
+                    ]
                 }
             },
             "capi:attack_37": {
                 "add": {
-                    "component_groups": ["capi:attack_37"]
+                    "component_groups": [
+                        "capi:attack_37"
+                    ]
                 }
             },
             "capi:attack_38": {
                 "add": {
-                    "component_groups": ["capi:attack_38"]
+                    "component_groups": [
+                        "capi:attack_38"
+                    ]
                 }
             },
             "capi:attack_39": {
                 "add": {
-                    "component_groups": ["capi:attack_39"]
+                    "component_groups": [
+                        "capi:attack_39"
+                    ]
                 }
             },
             "capi:attack_40": {
                 "add": {
-                    "component_groups": ["capi:attack_40"]
+                    "component_groups": [
+                        "capi:attack_40"
+                    ]
                 }
             },
             "capi:attack_41": {
                 "add": {
-                    "component_groups": ["capi:attack_41"]
+                    "component_groups": [
+                        "capi:attack_41"
+                    ]
                 }
             },
             "capi:attack_42": {
                 "add": {
-                    "component_groups": ["capi:attack_42"]
+                    "component_groups": [
+                        "capi:attack_42"
+                    ]
                 }
             },
             "capi:attack_43": {
                 "add": {
-                    "component_groups": ["capi:attack_43"]
+                    "component_groups": [
+                        "capi:attack_43"
+                    ]
                 }
             },
             "capi:attack_44": {
                 "add": {
-                    "component_groups": ["capi:attack_44"]
+                    "component_groups": [
+                        "capi:attack_44"
+                    ]
                 }
             },
             "capi:attack_45": {
                 "add": {
-                    "component_groups": ["capi:attack_45"]
+                    "component_groups": [
+                        "capi:attack_45"
+                    ]
                 }
             },
             "capi:attack_46": {
                 "add": {
-                    "component_groups": ["capi:attack_46"]
+                    "component_groups": [
+                        "capi:attack_46"
+                    ]
                 }
             },
             "capi:attack_47": {
                 "add": {
-                    "component_groups": ["capi:attack_47"]
+                    "component_groups": [
+                        "capi:attack_47"
+                    ]
                 }
             },
             "capi:attack_48": {
                 "add": {
-                    "component_groups": ["capi:attack_48"]
+                    "component_groups": [
+                        "capi:attack_48"
+                    ]
                 }
             },
             "capi:attack_49": {
                 "add": {
-                    "component_groups": ["capi:attack_49"]
+                    "component_groups": [
+                        "capi:attack_49"
+                    ]
                 }
             },
             "capi:attack_50": {
                 "add": {
-                    "component_groups": ["capi:attack_50"]
+                    "component_groups": [
+                        "capi:attack_50"
+                    ]
                 }
             },
             "capi:attack_51": {
                 "add": {
-                    "component_groups": ["capi:attack_51"]
+                    "component_groups": [
+                        "capi:attack_51"
+                    ]
                 }
             },
             "capi:attack_52": {
                 "add": {
-                    "component_groups": ["capi:attack_52"]
+                    "component_groups": [
+                        "capi:attack_52"
+                    ]
                 }
             },
             "capi:attack_53": {
                 "add": {
-                    "component_groups": ["capi:attack_53"]
+                    "component_groups": [
+                        "capi:attack_53"
+                    ]
                 }
             },
             "capi:attack_54": {
                 "add": {
-                    "component_groups": ["capi:attack_54"]
+                    "component_groups": [
+                        "capi:attack_54"
+                    ]
                 }
             },
             "capi:attack_55": {
                 "add": {
-                    "component_groups": ["capi:attack_55"]
+                    "component_groups": [
+                        "capi:attack_55"
+                    ]
                 }
             },
             "capi:attack_56": {
                 "add": {
-                    "component_groups": ["capi:attack_56"]
+                    "component_groups": [
+                        "capi:attack_56"
+                    ]
                 }
             },
             "capi:attack_57": {
                 "add": {
-                    "component_groups": ["capi:attack_57"]
+                    "component_groups": [
+                        "capi:attack_57"
+                    ]
                 }
             },
             "capi:attack_58": {
                 "add": {
-                    "component_groups": ["capi:attack_58"]
+                    "component_groups": [
+                        "capi:attack_58"
+                    ]
                 }
             },
             "capi:attack_59": {
                 "add": {
-                    "component_groups": ["capi:attack_59"]
+                    "component_groups": [
+                        "capi:attack_59"
+                    ]
                 }
             },
             "capi:attack_60": {
                 "add": {
-                    "component_groups": ["capi:attack_60"]
+                    "component_groups": [
+                        "capi:attack_60"
+                    ]
                 }
             },
             "capi:attack_61": {
                 "add": {
-                    "component_groups": ["capi:attack_61"]
+                    "component_groups": [
+                        "capi:attack_61"
+                    ]
                 }
             },
             "capi:attack_62": {
                 "add": {
-                    "component_groups": ["capi:attack_62"]
+                    "component_groups": [
+                        "capi:attack_62"
+                    ]
                 }
             },
             "capi:attack_63": {
                 "add": {
-                    "component_groups": ["capi:attack_63"]
+                    "component_groups": [
+                        "capi:attack_63"
+                    ]
                 }
             },
             "capi:attack_64": {
                 "add": {
-                    "component_groups": ["capi:attack_64"]
+                    "component_groups": [
+                        "capi:attack_64"
+                    ]
                 }
             },
             "capi:attack_65": {
                 "add": {
-                    "component_groups": ["capi:attack_65"]
+                    "component_groups": [
+                        "capi:attack_65"
+                    ]
                 }
             },
             "capi:attack_66": {
                 "add": {
-                    "component_groups": ["capi:attack_66"]
+                    "component_groups": [
+                        "capi:attack_66"
+                    ]
                 }
             },
             "capi:attack_67": {
                 "add": {
-                    "component_groups": ["capi:attack_67"]
+                    "component_groups": [
+                        "capi:attack_67"
+                    ]
                 }
             },
             "capi:attack_68": {
                 "add": {
-                    "component_groups": ["capi:attack_68"]
+                    "component_groups": [
+                        "capi:attack_68"
+                    ]
                 }
             },
             "capi:attack_69": {
                 "add": {
-                    "component_groups": ["capi:attack_69"]
+                    "component_groups": [
+                        "capi:attack_69"
+                    ]
                 }
             },
             "capi:attack_70": {
                 "add": {
-                    "component_groups": ["capi:attack_70"]
+                    "component_groups": [
+                        "capi:attack_70"
+                    ]
                 }
             },
             "capi:attack_71": {
                 "add": {
-                    "component_groups": ["capi:attack_71"]
+                    "component_groups": [
+                        "capi:attack_71"
+                    ]
                 }
             },
             "capi:attack_72": {
                 "add": {
-                    "component_groups": ["capi:attack_72"]
+                    "component_groups": [
+                        "capi:attack_72"
+                    ]
                 }
             },
             "capi:attack_73": {
                 "add": {
-                    "component_groups": ["capi:attack_73"]
+                    "component_groups": [
+                        "capi:attack_73"
+                    ]
                 }
             },
             "capi:attack_74": {
                 "add": {
-                    "component_groups": ["capi:attack_74"]
+                    "component_groups": [
+                        "capi:attack_74"
+                    ]
                 }
             },
             "capi:attack_75": {
                 "add": {
-                    "component_groups": ["capi:attack_75"]
+                    "component_groups": [
+                        "capi:attack_75"
+                    ]
                 }
             },
             "capi:attack_76": {
                 "add": {
-                    "component_groups": ["capi:attack_76"]
+                    "component_groups": [
+                        "capi:attack_76"
+                    ]
                 }
             },
             "capi:attack_77": {
                 "add": {
-                    "component_groups": ["capi:attack_77"]
+                    "component_groups": [
+                        "capi:attack_77"
+                    ]
                 }
             },
             "capi:attack_78": {
                 "add": {
-                    "component_groups": ["capi:attack_78"]
+                    "component_groups": [
+                        "capi:attack_78"
+                    ]
                 }
             },
             "capi:attack_79": {
                 "add": {
-                    "component_groups": ["capi:attack_79"]
+                    "component_groups": [
+                        "capi:attack_79"
+                    ]
                 }
             },
             "capi:attack_80": {
                 "add": {
-                    "component_groups": ["capi:attack_80"]
+                    "component_groups": [
+                        "capi:attack_80"
+                    ]
                 }
             },
             "capi:attack_81": {
                 "add": {
-                    "component_groups": ["capi:attack_81"]
+                    "component_groups": [
+                        "capi:attack_81"
+                    ]
                 }
             },
             "capi:attack_82": {
                 "add": {
-                    "component_groups": ["capi:attack_82"]
+                    "component_groups": [
+                        "capi:attack_82"
+                    ]
                 }
             },
             "capi:attack_83": {
                 "add": {
-                    "component_groups": ["capi:attack_83"]
+                    "component_groups": [
+                        "capi:attack_83"
+                    ]
                 }
             },
             "capi:attack_84": {
                 "add": {
-                    "component_groups": ["capi:attack_84"]
+                    "component_groups": [
+                        "capi:attack_84"
+                    ]
                 }
             },
             "capi:attack_85": {
                 "add": {
-                    "component_groups": ["capi:attack_85"]
+                    "component_groups": [
+                        "capi:attack_85"
+                    ]
                 }
             },
             "capi:attack_86": {
                 "add": {
-                    "component_groups": ["capi:attack_86"]
+                    "component_groups": [
+                        "capi:attack_86"
+                    ]
                 }
             },
             "capi:attack_87": {
                 "add": {
-                    "component_groups": ["capi:attack_87"]
+                    "component_groups": [
+                        "capi:attack_87"
+                    ]
                 }
             },
             "capi:attack_88": {
                 "add": {
-                    "component_groups": ["capi:attack_88"]
+                    "component_groups": [
+                        "capi:attack_88"
+                    ]
                 }
             },
             "capi:attack_89": {
                 "add": {
-                    "component_groups": ["capi:attack_89"]
+                    "component_groups": [
+                        "capi:attack_89"
+                    ]
                 }
             },
             "capi:attack_90": {
                 "add": {
-                    "component_groups": ["capi:attack_90"]
+                    "component_groups": [
+                        "capi:attack_90"
+                    ]
                 }
             },
             "capi:attack_91": {
                 "add": {
-                    "component_groups": ["capi:attack_91"]
+                    "component_groups": [
+                        "capi:attack_91"
+                    ]
                 }
             },
             "capi:attack_92": {
                 "add": {
-                    "component_groups": ["capi:attack_92"]
+                    "component_groups": [
+                        "capi:attack_92"
+                    ]
                 }
             },
             "capi:attack_93": {
                 "add": {
-                    "component_groups": ["capi:attack_93"]
+                    "component_groups": [
+                        "capi:attack_93"
+                    ]
                 }
             },
             "capi:attack_94": {
                 "add": {
-                    "component_groups": ["capi:attack_94"]
+                    "component_groups": [
+                        "capi:attack_94"
+                    ]
                 }
             },
             "capi:attack_95": {
                 "add": {
-                    "component_groups": ["capi:attack_95"]
+                    "component_groups": [
+                        "capi:attack_95"
+                    ]
                 }
             },
             "capi:attack_96": {
                 "add": {
-                    "component_groups": ["capi:attack_96"]
+                    "component_groups": [
+                        "capi:attack_96"
+                    ]
                 }
             },
             "capi:attack_97": {
                 "add": {
-                    "component_groups": ["capi:attack_97"]
+                    "component_groups": [
+                        "capi:attack_97"
+                    ]
                 }
             },
             "capi:attack_98": {
                 "add": {
-                    "component_groups": ["capi:attack_98"]
+                    "component_groups": [
+                        "capi:attack_98"
+                    ]
                 }
             },
             "capi:attack_99": {
                 "add": {
-                    "component_groups": ["capi:attack_99"]
+                    "component_groups": [
+                        "capi:attack_99"
+                    ]
                 }
             },
             "capi:attack_100": {
                 "add": {
-                    "component_groups": ["capi:attack_100"]
+                    "component_groups": [
+                        "capi:attack_100"
+                    ]
                 }
             },
             "capi:attack_101": {
                 "add": {
-                    "component_groups": ["capi:attack_101"]
+                    "component_groups": [
+                        "capi:attack_101"
+                    ]
                 }
             },
             "capi:attack_102": {
                 "add": {
-                    "component_groups": ["capi:attack_102"]
+                    "component_groups": [
+                        "capi:attack_102"
+                    ]
                 }
             },
             "capi:attack_103": {
                 "add": {
-                    "component_groups": ["capi:attack_103"]
+                    "component_groups": [
+                        "capi:attack_103"
+                    ]
                 }
             },
             "capi:attack_104": {
                 "add": {
-                    "component_groups": ["capi:attack_104"]
+                    "component_groups": [
+                        "capi:attack_104"
+                    ]
                 }
             },
             "capi:attack_105": {
                 "add": {
-                    "component_groups": ["capi:attack_105"]
+                    "component_groups": [
+                        "capi:attack_105"
+                    ]
                 }
             },
             "capi:attack_106": {
                 "add": {
-                    "component_groups": ["capi:attack_106"]
+                    "component_groups": [
+                        "capi:attack_106"
+                    ]
                 }
             },
             "capi:attack_107": {
                 "add": {
-                    "component_groups": ["capi:attack_107"]
+                    "component_groups": [
+                        "capi:attack_107"
+                    ]
                 }
             },
             "capi:attack_108": {
                 "add": {
-                    "component_groups": ["capi:attack_108"]
+                    "component_groups": [
+                        "capi:attack_108"
+                    ]
                 }
             },
             "capi:attack_109": {
                 "add": {
-                    "component_groups": ["capi:attack_109"]
+                    "component_groups": [
+                        "capi:attack_109"
+                    ]
                 }
             },
             "capi:attack_110": {
                 "add": {
-                    "component_groups": ["capi:attack_110"]
+                    "component_groups": [
+                        "capi:attack_110"
+                    ]
                 }
             },
             "capi:attack_111": {
                 "add": {
-                    "component_groups": ["capi:attack_111"]
+                    "component_groups": [
+                        "capi:attack_111"
+                    ]
                 }
             },
             "capi:attack_112": {
                 "add": {
-                    "component_groups": ["capi:attack_112"]
+                    "component_groups": [
+                        "capi:attack_112"
+                    ]
                 }
             },
             "capi:attack_113": {
                 "add": {
-                    "component_groups": ["capi:attack_113"]
+                    "component_groups": [
+                        "capi:attack_113"
+                    ]
                 }
             },
             "capi:attack_114": {
                 "add": {
-                    "component_groups": ["capi:attack_114"]
+                    "component_groups": [
+                        "capi:attack_114"
+                    ]
                 }
             },
             "capi:attack_115": {
                 "add": {
-                    "component_groups": ["capi:attack_115"]
+                    "component_groups": [
+                        "capi:attack_115"
+                    ]
                 }
             },
             "capi:attack_116": {
                 "add": {
-                    "component_groups": ["capi:attack_116"]
+                    "component_groups": [
+                        "capi:attack_116"
+                    ]
                 }
             },
             "capi:attack_117": {
                 "add": {
-                    "component_groups": ["capi:attack_117"]
+                    "component_groups": [
+                        "capi:attack_117"
+                    ]
                 }
             },
             "capi:attack_118": {
                 "add": {
-                    "component_groups": ["capi:attack_118"]
+                    "component_groups": [
+                        "capi:attack_118"
+                    ]
                 }
             },
             "capi:attack_119": {
                 "add": {
-                    "component_groups": ["capi:attack_119"]
+                    "component_groups": [
+                        "capi:attack_119"
+                    ]
                 }
             },
             "capi:attack_120": {
                 "add": {
-                    "component_groups": ["capi:attack_120"]
+                    "component_groups": [
+                        "capi:attack_120"
+                    ]
                 }
             },
             "capi:attack_121": {
                 "add": {
-                    "component_groups": ["capi:attack_121"]
+                    "component_groups": [
+                        "capi:attack_121"
+                    ]
                 }
             },
             "capi:attack_122": {
                 "add": {
-                    "component_groups": ["capi:attack_122"]
+                    "component_groups": [
+                        "capi:attack_122"
+                    ]
                 }
             },
             "capi:attack_123": {
                 "add": {
-                    "component_groups": ["capi:attack_123"]
+                    "component_groups": [
+                        "capi:attack_123"
+                    ]
                 }
             },
             "capi:attack_124": {
                 "add": {
-                    "component_groups": ["capi:attack_124"]
+                    "component_groups": [
+                        "capi:attack_124"
+                    ]
                 }
             },
             "capi:attack_125": {
                 "add": {
-                    "component_groups": ["capi:attack_125"]
+                    "component_groups": [
+                        "capi:attack_125"
+                    ]
                 }
             },
             "capi:attack_126": {
                 "add": {
-                    "component_groups": ["capi:attack_126"]
+                    "component_groups": [
+                        "capi:attack_126"
+                    ]
                 }
             },
             "capi:attack_127": {
                 "add": {
-                    "component_groups": ["capi:attack_127"]
+                    "component_groups": [
+                        "capi:attack_127"
+                    ]
                 }
             },
             "capi:attack_128": {
                 "add": {
-                    "component_groups": ["capi:attack_128"]
+                    "component_groups": [
+                        "capi:attack_128"
+                    ]
                 }
             },
             "capi:attack_129": {
                 "add": {
-                    "component_groups": ["capi:attack_129"]
+                    "component_groups": [
+                        "capi:attack_129"
+                    ]
                 }
             },
             "capi:attack_130": {
                 "add": {
-                    "component_groups": ["capi:attack_130"]
+                    "component_groups": [
+                        "capi:attack_130"
+                    ]
                 }
             },
             "capi:attack_131": {
                 "add": {
-                    "component_groups": ["capi:attack_131"]
+                    "component_groups": [
+                        "capi:attack_131"
+                    ]
                 }
             },
             "capi:attack_132": {
                 "add": {
-                    "component_groups": ["capi:attack_132"]
+                    "component_groups": [
+                        "capi:attack_132"
+                    ]
                 }
             },
             "capi:attack_133": {
                 "add": {
-                    "component_groups": ["capi:attack_133"]
+                    "component_groups": [
+                        "capi:attack_133"
+                    ]
                 }
             },
             "capi:attack_134": {
                 "add": {
-                    "component_groups": ["capi:attack_134"]
+                    "component_groups": [
+                        "capi:attack_134"
+                    ]
                 }
             },
             "capi:attack_135": {
                 "add": {
-                    "component_groups": ["capi:attack_135"]
+                    "component_groups": [
+                        "capi:attack_135"
+                    ]
                 }
             },
             "capi:attack_136": {
                 "add": {
-                    "component_groups": ["capi:attack_136"]
+                    "component_groups": [
+                        "capi:attack_136"
+                    ]
                 }
             },
             "capi:attack_137": {
                 "add": {
-                    "component_groups": ["capi:attack_137"]
+                    "component_groups": [
+                        "capi:attack_137"
+                    ]
                 }
             },
             "capi:attack_138": {
                 "add": {
-                    "component_groups": ["capi:attack_138"]
+                    "component_groups": [
+                        "capi:attack_138"
+                    ]
                 }
             },
             "capi:attack_139": {
                 "add": {
-                    "component_groups": ["capi:attack_139"]
+                    "component_groups": [
+                        "capi:attack_139"
+                    ]
                 }
             },
             "capi:attack_140": {
                 "add": {
-                    "component_groups": ["capi:attack_140"]
+                    "component_groups": [
+                        "capi:attack_140"
+                    ]
                 }
             },
             "capi:attack_141": {
                 "add": {
-                    "component_groups": ["capi:attack_141"]
+                    "component_groups": [
+                        "capi:attack_141"
+                    ]
                 }
             },
             "capi:attack_142": {
                 "add": {
-                    "component_groups": ["capi:attack_142"]
+                    "component_groups": [
+                        "capi:attack_142"
+                    ]
                 }
             },
             "capi:attack_143": {
                 "add": {
-                    "component_groups": ["capi:attack_143"]
+                    "component_groups": [
+                        "capi:attack_143"
+                    ]
                 }
             },
             "capi:attack_144": {
                 "add": {
-                    "component_groups": ["capi:attack_144"]
+                    "component_groups": [
+                        "capi:attack_144"
+                    ]
                 }
             },
             "capi:attack_145": {
                 "add": {
-                    "component_groups": ["capi:attack_145"]
+                    "component_groups": [
+                        "capi:attack_145"
+                    ]
                 }
             },
             "capi:attack_146": {
                 "add": {
-                    "component_groups": ["capi:attack_146"]
+                    "component_groups": [
+                        "capi:attack_146"
+                    ]
                 }
             },
             "capi:attack_147": {
                 "add": {
-                    "component_groups": ["capi:attack_147"]
+                    "component_groups": [
+                        "capi:attack_147"
+                    ]
                 }
             },
             "capi:attack_148": {
                 "add": {
-                    "component_groups": ["capi:attack_148"]
+                    "component_groups": [
+                        "capi:attack_148"
+                    ]
                 }
             },
             "capi:attack_149": {
                 "add": {
-                    "component_groups": ["capi:attack_149"]
+                    "component_groups": [
+                        "capi:attack_149"
+                    ]
                 }
             },
             "capi:attack_150": {
                 "add": {
-                    "component_groups": ["capi:attack_150"]
+                    "component_groups": [
+                        "capi:attack_150"
+                    ]
                 }
             },
             "capi:attack_151": {
                 "add": {
-                    "component_groups": ["capi:attack_151"]
+                    "component_groups": [
+                        "capi:attack_151"
+                    ]
                 }
             },
             "capi:attack_152": {
                 "add": {
-                    "component_groups": ["capi:attack_152"]
+                    "component_groups": [
+                        "capi:attack_152"
+                    ]
                 }
             },
             "capi:attack_153": {
                 "add": {
-                    "component_groups": ["capi:attack_153"]
+                    "component_groups": [
+                        "capi:attack_153"
+                    ]
                 }
             },
             "capi:attack_154": {
                 "add": {
-                    "component_groups": ["capi:attack_154"]
+                    "component_groups": [
+                        "capi:attack_154"
+                    ]
                 }
             },
             "capi:attack_155": {
                 "add": {
-                    "component_groups": ["capi:attack_155"]
+                    "component_groups": [
+                        "capi:attack_155"
+                    ]
                 }
             },
             "capi:attack_156": {
                 "add": {
-                    "component_groups": ["capi:attack_156"]
+                    "component_groups": [
+                        "capi:attack_156"
+                    ]
                 }
             },
             "capi:attack_157": {
                 "add": {
-                    "component_groups": ["capi:attack_157"]
+                    "component_groups": [
+                        "capi:attack_157"
+                    ]
                 }
             },
             "capi:attack_158": {
                 "add": {
-                    "component_groups": ["capi:attack_158"]
+                    "component_groups": [
+                        "capi:attack_158"
+                    ]
                 }
             },
             "capi:attack_159": {
                 "add": {
-                    "component_groups": ["capi:attack_159"]
+                    "component_groups": [
+                        "capi:attack_159"
+                    ]
                 }
             },
             "capi:attack_160": {
                 "add": {
-                    "component_groups": ["capi:attack_160"]
+                    "component_groups": [
+                        "capi:attack_160"
+                    ]
                 }
             },
             "capi:attack_161": {
                 "add": {
-                    "component_groups": ["capi:attack_161"]
+                    "component_groups": [
+                        "capi:attack_161"
+                    ]
                 }
             },
             "capi:attack_162": {
                 "add": {
-                    "component_groups": ["capi:attack_162"]
+                    "component_groups": [
+                        "capi:attack_162"
+                    ]
                 }
             },
             "capi:attack_163": {
                 "add": {
-                    "component_groups": ["capi:attack_163"]
+                    "component_groups": [
+                        "capi:attack_163"
+                    ]
                 }
             },
             "capi:attack_164": {
                 "add": {
-                    "component_groups": ["capi:attack_164"]
+                    "component_groups": [
+                        "capi:attack_164"
+                    ]
                 }
             },
             "capi:attack_165": {
                 "add": {
-                    "component_groups": ["capi:attack_165"]
+                    "component_groups": [
+                        "capi:attack_165"
+                    ]
                 }
             },
             "capi:attack_166": {
                 "add": {
-                    "component_groups": ["capi:attack_166"]
+                    "component_groups": [
+                        "capi:attack_166"
+                    ]
                 }
             },
             "capi:attack_167": {
                 "add": {
-                    "component_groups": ["capi:attack_167"]
+                    "component_groups": [
+                        "capi:attack_167"
+                    ]
                 }
             },
             "capi:attack_168": {
                 "add": {
-                    "component_groups": ["capi:attack_168"]
+                    "component_groups": [
+                        "capi:attack_168"
+                    ]
                 }
             },
             "capi:attack_169": {
                 "add": {
-                    "component_groups": ["capi:attack_169"]
+                    "component_groups": [
+                        "capi:attack_169"
+                    ]
                 }
             },
             "capi:attack_170": {
                 "add": {
-                    "component_groups": ["capi:attack_170"]
+                    "component_groups": [
+                        "capi:attack_170"
+                    ]
                 }
             },
             "capi:attack_171": {
                 "add": {
-                    "component_groups": ["capi:attack_171"]
+                    "component_groups": [
+                        "capi:attack_171"
+                    ]
                 }
             },
             "capi:attack_172": {
                 "add": {
-                    "component_groups": ["capi:attack_172"]
+                    "component_groups": [
+                        "capi:attack_172"
+                    ]
                 }
             },
             "capi:attack_173": {
                 "add": {
-                    "component_groups": ["capi:attack_173"]
+                    "component_groups": [
+                        "capi:attack_173"
+                    ]
                 }
             },
             "capi:attack_174": {
                 "add": {
-                    "component_groups": ["capi:attack_174"]
+                    "component_groups": [
+                        "capi:attack_174"
+                    ]
                 }
             },
             "capi:attack_175": {
                 "add": {
-                    "component_groups": ["capi:attack_175"]
+                    "component_groups": [
+                        "capi:attack_175"
+                    ]
                 }
             },
             "capi:attack_176": {
                 "add": {
-                    "component_groups": ["capi:attack_176"]
+                    "component_groups": [
+                        "capi:attack_176"
+                    ]
                 }
             },
             "capi:attack_177": {
                 "add": {
-                    "component_groups": ["capi:attack_177"]
+                    "component_groups": [
+                        "capi:attack_177"
+                    ]
                 }
             },
             "capi:attack_178": {
                 "add": {
-                    "component_groups": ["capi:attack_178"]
+                    "component_groups": [
+                        "capi:attack_178"
+                    ]
                 }
             },
             "capi:attack_179": {
                 "add": {
-                    "component_groups": ["capi:attack_179"]
+                    "component_groups": [
+                        "capi:attack_179"
+                    ]
                 }
             },
             "capi:attack_180": {
                 "add": {
-                    "component_groups": ["capi:attack_180"]
+                    "component_groups": [
+                        "capi:attack_180"
+                    ]
                 }
             },
             "capi:attack_181": {
                 "add": {
-                    "component_groups": ["capi:attack_181"]
+                    "component_groups": [
+                        "capi:attack_181"
+                    ]
                 }
             },
             "capi:attack_182": {
                 "add": {
-                    "component_groups": ["capi:attack_182"]
+                    "component_groups": [
+                        "capi:attack_182"
+                    ]
                 }
             },
             "capi:attack_183": {
                 "add": {
-                    "component_groups": ["capi:attack_183"]
+                    "component_groups": [
+                        "capi:attack_183"
+                    ]
                 }
             },
             "capi:attack_184": {
                 "add": {
-                    "component_groups": ["capi:attack_184"]
+                    "component_groups": [
+                        "capi:attack_184"
+                    ]
                 }
             },
             "capi:attack_185": {
                 "add": {
-                    "component_groups": ["capi:attack_185"]
+                    "component_groups": [
+                        "capi:attack_185"
+                    ]
                 }
             },
             "capi:attack_186": {
                 "add": {
-                    "component_groups": ["capi:attack_186"]
+                    "component_groups": [
+                        "capi:attack_186"
+                    ]
                 }
             },
             "capi:attack_187": {
                 "add": {
-                    "component_groups": ["capi:attack_187"]
+                    "component_groups": [
+                        "capi:attack_187"
+                    ]
                 }
             },
             "capi:attack_188": {
                 "add": {
-                    "component_groups": ["capi:attack_188"]
+                    "component_groups": [
+                        "capi:attack_188"
+                    ]
                 }
             },
             "capi:attack_189": {
                 "add": {
-                    "component_groups": ["capi:attack_189"]
+                    "component_groups": [
+                        "capi:attack_189"
+                    ]
                 }
             },
             "capi:attack_190": {
                 "add": {
-                    "component_groups": ["capi:attack_190"]
+                    "component_groups": [
+                        "capi:attack_190"
+                    ]
                 }
             },
             "capi:attack_191": {
                 "add": {
-                    "component_groups": ["capi:attack_191"]
+                    "component_groups": [
+                        "capi:attack_191"
+                    ]
                 }
             },
             "capi:attack_192": {
                 "add": {
-                    "component_groups": ["capi:attack_192"]
+                    "component_groups": [
+                        "capi:attack_192"
+                    ]
                 }
             },
             "capi:attack_193": {
                 "add": {
-                    "component_groups": ["capi:attack_193"]
+                    "component_groups": [
+                        "capi:attack_193"
+                    ]
                 }
             },
             "capi:attack_194": {
                 "add": {
-                    "component_groups": ["capi:attack_194"]
+                    "component_groups": [
+                        "capi:attack_194"
+                    ]
                 }
             },
             "capi:attack_195": {
                 "add": {
-                    "component_groups": ["capi:attack_195"]
+                    "component_groups": [
+                        "capi:attack_195"
+                    ]
                 }
             },
             "capi:attack_196": {
                 "add": {
-                    "component_groups": ["capi:attack_196"]
+                    "component_groups": [
+                        "capi:attack_196"
+                    ]
                 }
             },
             "capi:attack_197": {
                 "add": {
-                    "component_groups": ["capi:attack_197"]
+                    "component_groups": [
+                        "capi:attack_197"
+                    ]
                 }
             },
             "capi:attack_198": {
                 "add": {
-                    "component_groups": ["capi:attack_198"]
+                    "component_groups": [
+                        "capi:attack_198"
+                    ]
                 }
             },
             "capi:attack_199": {
                 "add": {
-                    "component_groups": ["capi:attack_199"]
+                    "component_groups": [
+                        "capi:attack_199"
+                    ]
                 }
             },
             "capi:attack_200": {
                 "add": {
-                    "component_groups": ["capi:attack_200"]
+                    "component_groups": [
+                        "capi:attack_200"
+                    ]
                 }
             }
         }
