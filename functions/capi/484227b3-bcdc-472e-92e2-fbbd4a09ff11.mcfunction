@@ -1,0 +1,1 @@
+tellraw @s { "rawtext": [ { "text": "§cこの function は Commander API の内部処理用です。直接実行しないでください。§r\nサポートが必要ですか？ Discord に参加してください。\n\n§7Github: https://github.com/Unknown-Creators-Team/Commander-API\nコミュニティDiscord: https://discord.gg/uTqyqtHWG4\n開発元Discord: https://discord.gg/QF3n85dr4P\n公式ドキュメント: https://capi.un-known.xyz" } ] }

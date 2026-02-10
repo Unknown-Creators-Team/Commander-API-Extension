@@ -42,41 +42,8 @@ components["minecraft:damage_sensor"] = {
     triggers: [],
 };
 
-// for (const type of ["show", "hide"]) {
-//     componentGroups[`capi:${type}_nametag`] = {
-//         "minecraft:nameable": {
-//             always_show: type === "show",
-//             allow_name_tag_renaming: false,
-//         },
-//     };
-
-//     events[`capi:${type}_nametag`] = {
-//         add: {
-//             component_groups: [`capi:${type}_nametag`],
-//         },
-//         remove: {
-//             component_groups: [`capi:${type === "show" ? "hide" : "show"}_nametag`],
-//         }
-//     };
-// }
-
-for (let i = 0.0; Math.round(i * 100) / 100 < 0.1; i += 0.01) {
+for (let i = 0.0; Math.round(i * 100) / 100 <= 10.0; i += 0.01) {
     i = Math.round(i * 100) / 100; // Round to 2 decimal places
-    componentGroups[`capi:size_${i}`] = {
-        "minecraft:scale": {
-            value: i,
-        },
-    };
-
-    events[`capi:size_${i}`] = {
-        add: {
-            component_groups: [`capi:size_${i}`],
-        },
-    };
-}
-
-for (let i = 0.1; i <= 4.0; i += 0.1) {
-    i = Math.round(i * 10) / 10; // Round to 1 decimal place
     componentGroups[`capi:size_${i}`] = {
         "minecraft:scale": {
             value: i,

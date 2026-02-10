@@ -13,7 +13,7 @@ jobs:
               uses: actions/checkout@v2
 
             - name: Zip the code
-              run: zip -r source_code.zip . -i entities/* LICENSE manifest.json pack_icon.png package.json README.md
+              run: zip -r source_code.zip . -i entities/\* LICENSE manifest.json pack_icon.png package.json README.md
 
             - name: Rename the file
               run: |
